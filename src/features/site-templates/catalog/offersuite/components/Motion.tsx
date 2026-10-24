@@ -9,9 +9,10 @@ export function Reveal({children,className='',delay=0}:{children:ReactNode;class
 }
 export function SplitText({text}:{text:string}) {
   const reduced=useReducedMotion()
-  // 按单词错峰，中文按字符；保留整体可访问文本，避免读屏逐字朗读。
-  const parts=/[\u4e00-\u9fff]/.test(text)?Array.from(text):text.split(/(\s+)/)
-  return <span aria-label={text}>{parts.map((part,i)=><motion.span aria-hidden key={i} style={{display:'inline-block',whiteSpace:'pre-wrap'}} initial={reduced?false:{opacity:0,y:12,filter:'blur(5px)'}} animate={{opacity:1,y:0,filter:'blur(0px)'}} transition={{delay:0.35+i*0.018,duration:0.7,ease}}>{part}</motion.span>)}</span>
+  // 两种语言均按字符错峰；用单词外壳避免英文在字母中间换行，读屏只读取完整句子。
+  const groups=Array.from(text.matchAll(/\p{Script=Han}|[^\p{Script=Han}\s]+|\s+/gu),match=>match[0])
+  let offset=0
+  return <span aria-label={text}>{groups.map((group,index)=>{const letters=Array.from(group),start=offset;offset+=letters.length;return <span aria-hidden key={index} style={{display:'inline-block',whiteSpace:'pre'}}>{letters.map((letter,i)=><motion.span key={i} style={{display:'inline-block',whiteSpace:'pre'}} initial={reduced?false:{opacity:0,y:12,filter:'blur(5px)'}} animate={{opacity:1,y:0,filter:'blur(0px)'}} transition={{delay:0.35+(start+i)*0.018,duration:0.7,ease}}>{letter}</motion.span>)}</span>})}</span>
 }
 export function ParallaxImage({src,alt='',className=''}:{src:string;alt?:string;className?:string}) {
   const ref=useRef<HTMLDivElement>(null), reduced=useReducedMotion()
