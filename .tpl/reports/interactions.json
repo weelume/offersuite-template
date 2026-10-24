@@ -1,0 +1,22 @@
+[
+  {
+    "check": "language-preserves-page-query-hash",
+    "passed": true
+  },
+  {
+    "check": "mobile-menu-opens",
+    "passed": true
+  },
+  {
+    "check": "faq-opens",
+    "passed": true
+  },
+  {
+    "check": "empty-form-rejected",
+    "passed": true
+  },
+  {
+    "check": "local-only-form-success",
+    "passed": true
+  }
+]

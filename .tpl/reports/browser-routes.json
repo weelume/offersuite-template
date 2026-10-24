@@ -1,0 +1,1514 @@
+[
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "about",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "journal",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "contact",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "checkout",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "404",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "thank-you",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "legal/privacy-policy",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "legal/terms-of-service",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "journal/what-a-tuscan-table-teaches",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "journal/learning-to-cook-with-the-lagoon",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "journal/four-pastas-a-thousand-decisions",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "journal/the-pleasure-of-a-longer-lunch",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "journal/a-kitchen-between-the-mountains",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "journal/dough-rewards-your-attention",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "about",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "journal",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "contact",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "checkout",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "404",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "thank-you",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "legal/privacy-policy",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "legal/terms-of-service",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "journal/what-a-tuscan-table-teaches",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "journal/learning-to-cook-with-the-lagoon",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "journal/four-pastas-a-thousand-decisions",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "journal/the-pleasure-of-a-longer-lunch",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "journal/a-kitchen-between-the-mountains",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "journal/dough-rewards-your-attention",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "about",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "journal",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "contact",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "checkout",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "404",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "thank-you",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "legal/privacy-policy",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "legal/terms-of-service",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "journal/what-a-tuscan-table-teaches",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "journal/learning-to-cook-with-the-lagoon",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "journal/four-pastas-a-thousand-decisions",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "journal/the-pleasure-of-a-longer-lunch",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "journal/a-kitchen-between-the-mountains",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "journal/dough-rewards-your-attention",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "about",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "journal",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "contact",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "checkout",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "404",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "thank-you",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "legal/privacy-policy",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "legal/terms-of-service",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "journal/what-a-tuscan-table-teaches",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "journal/learning-to-cook-with-the-lagoon",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "journal/four-pastas-a-thousand-decisions",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "journal/the-pleasure-of-a-longer-lunch",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "journal/a-kitchen-between-the-mountains",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "journal/dough-rewards-your-attention",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 834
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "about",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "journal",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "contact",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "checkout",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "404",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "thank-you",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "legal/privacy-policy",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "legal/terms-of-service",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "journal/what-a-tuscan-table-teaches",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "journal/learning-to-cook-with-the-lagoon",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "journal/four-pastas-a-thousand-decisions",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "journal/the-pleasure-of-a-longer-lunch",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "journal/a-kitchen-between-the-mountains",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "journal/dough-rewards-your-attention",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "about",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "journal",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "contact",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "checkout",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "404",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "thank-you",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "legal/privacy-policy",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "legal/terms-of-service",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "journal/what-a-tuscan-table-teaches",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "journal/learning-to-cook-with-the-lagoon",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "journal/four-pastas-a-thousand-decisions",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "journal/the-pleasure-of-a-longer-lunch",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "journal/a-kitchen-between-the-mountains",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "journal/dough-rewards-your-attention",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "about",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "journal",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "contact",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "checkout",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "404",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "thank-you",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "legal/privacy-policy",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "legal/terms-of-service",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "journal/what-a-tuscan-table-teaches",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "journal/learning-to-cook-with-the-lagoon",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "journal/four-pastas-a-thousand-decisions",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "journal/the-pleasure-of-a-longer-lunch",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "journal/a-kitchen-between-the-mountains",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "journal/dough-rewards-your-attention",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "about",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "journal",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "contact",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "checkout",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "404",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "thank-you",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "legal/privacy-policy",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "legal/terms-of-service",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "journal/what-a-tuscan-table-teaches",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "journal/learning-to-cook-with-the-lagoon",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "journal/four-pastas-a-thousand-decisions",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "journal/the-pleasure-of-a-longer-lunch",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "journal/a-kitchen-between-the-mountains",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "journal/dough-rewards-your-attention",
+    "broken": [],
+    "main": true,
+    "overflow": false,
+    "width": 320
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "galleries": 2,
+    "overflow": true,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "mobile",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  },
+  {
+    "device": "narrow",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "galleries": 2,
+    "overflow": false,
+    "photos": 20,
+    "steps": 5
+  }
+]

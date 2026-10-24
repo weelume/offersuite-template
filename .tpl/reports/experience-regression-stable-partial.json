@@ -1,0 +1,182 @@
+[
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/naples",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/rome",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "desktop",
+    "locale": "en",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 1425,
+    "viewport": 1440
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 819,
+    "viewport": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/venice",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 819,
+    "viewport": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/tuscany",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 819,
+    "viewport": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/naples",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 819,
+    "viewport": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/rome",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 819,
+    "viewport": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "zh",
+    "slug": "experiences/dolomites",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 819,
+    "viewport": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/lake-como",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 819,
+    "viewport": 834
+  },
+  {
+    "device": "tablet",
+    "locale": "en",
+    "slug": "experiences/venice",
+    "broken": [],
+    "overflow": false,
+    "scrollWidth": 819,
+    "viewport": 834
+  }
+]

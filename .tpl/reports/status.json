@@ -1,13 +1,18 @@
 {
-  "status": "incomplete",
+  "status": "partial",
+  "applicationChecks": "passed",
+  "formatCheck": "passed",
+  "browser": "见 verification.json 限制项",
+  "git": "已推送 codex/offersuite；实际提交以 Git 历史为准",
+  "screenshots": 12,
   "pages": 21,
-  "locales": [
-    "zh",
-    "en"
-  ],
-  "browser": "内置浏览器读取连续超时，尚未提供可用 Chrome 连接",
-  "screenshots": "未生成，不以参考图片冒充实际截图",
-  "animation": "已据源码实现，尚未逐项运行比对",
-  "git": "远端待核实",
-  "checks": "待运行"
+  "checkedAt": "2026-10-24T11:07:28.162Z",
+  "limitations": [
+    "原站逐页、逐端的全部动效节奏与轨迹尚未逐项完成比对；不能宣称完整动效复刻验收。",
+    "浏览器首次完成 168 组双语四档布局检查；体验页调整后完成 48 组即时回归，其中一组初始加载时暂报溢出。稳定态复核前 20 组全部通过，后续导航被浏览器安全策略中止，未绕过。",
+    "12 张真实展示图按 1440×1000、834×1180、390×844 生成；后续页脚调整及联系页标题语义调整尚未重新截图。",
+    "参考站图片、文字与设计的商业及再分发许可尚未核实，保持 listed=false、redistributionAllowed=false。",
+    "尚未从远端全新克隆后重装；减少动态效果已实现，未模拟系统偏好验收。",
+    "协议检查通过与自动检查通过不等于全部视觉、动效和市场发布已验收。"
+  ]
 }

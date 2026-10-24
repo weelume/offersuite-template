@@ -1,0 +1,219 @@
+{
+  "checks": [
+    {
+      "device": "desktop",
+      "page": "home",
+      "broken": [],
+      "headings": [
+        "一张餐桌一方风土",
+        "五方风土同一份坚持"
+      ],
+      "height": 1000,
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "page": "experience",
+      "broken": [],
+      "headings": [
+        "托斯卡纳之席",
+        "48 小时的安排"
+      ],
+      "height": 1000,
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "page": "journal",
+      "broken": [],
+      "headings": [
+        "手艺日志",
+        "托斯卡纳餐桌教会我们的事"
+      ],
+      "height": 1000,
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "page": "contact",
+      "broken": [],
+      "headings": [
+        "从一次交谈开始"
+      ],
+      "height": 1000,
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "device": "tablet",
+      "page": "home",
+      "broken": [],
+      "headings": [
+        "一张餐桌一方风土",
+        "五方风土同一份坚持"
+      ],
+      "height": 1180,
+      "overflow": false,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "page": "experience",
+      "broken": [],
+      "headings": [
+        "托斯卡纳之席",
+        "48 小时的安排"
+      ],
+      "height": 1180,
+      "overflow": false,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "page": "journal",
+      "broken": [],
+      "headings": [
+        "手艺日志",
+        "托斯卡纳餐桌教会我们的事"
+      ],
+      "height": 1180,
+      "overflow": false,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "page": "contact",
+      "broken": [],
+      "headings": [
+        "从一次交谈开始"
+      ],
+      "height": 1180,
+      "overflow": false,
+      "width": 834
+    },
+    {
+      "device": "mobile",
+      "page": "home",
+      "broken": [],
+      "headings": [
+        "一张餐桌一方风土",
+        "五方风土同一份坚持"
+      ],
+      "height": 844,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "page": "experience",
+      "broken": [],
+      "headings": [
+        "托斯卡纳之席",
+        "48 小时的安排"
+      ],
+      "height": 844,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "page": "journal",
+      "broken": [],
+      "headings": [
+        "手艺日志",
+        "托斯卡纳餐桌教会我们的事"
+      ],
+      "height": 844,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "page": "contact",
+      "broken": [],
+      "headings": [
+        "从一次交谈开始"
+      ],
+      "height": 844,
+      "overflow": false,
+      "width": 390
+    }
+  ],
+  "shots": [
+    {
+      "id": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "page": "home"
+    },
+    {
+      "id": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "page": "experience"
+    },
+    {
+      "id": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "page": "journal"
+    },
+    {
+      "id": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "page": "contact"
+    },
+    {
+      "id": "tablet",
+      "width": 834,
+      "height": 1180,
+      "page": "home"
+    },
+    {
+      "id": "tablet",
+      "width": 834,
+      "height": 1180,
+      "page": "experience"
+    },
+    {
+      "id": "tablet",
+      "width": 834,
+      "height": 1180,
+      "page": "journal"
+    },
+    {
+      "id": "tablet",
+      "width": 834,
+      "height": 1180,
+      "page": "contact"
+    },
+    {
+      "id": "mobile",
+      "width": 390,
+      "height": 844,
+      "page": "home"
+    },
+    {
+      "id": "mobile",
+      "width": 390,
+      "height": 844,
+      "page": "experience"
+    },
+    {
+      "id": "mobile",
+      "width": 390,
+      "height": 844,
+      "page": "journal"
+    },
+    {
+      "id": "mobile",
+      "width": 390,
+      "height": 844,
+      "page": "contact"
+    }
+  ]
+}
