@@ -13,3 +13,5 @@
 修改入口：config/brand.ts（品牌）、content/（双语数据）、theme.css（主题与断点）、components/（动效与共享交互）、pages/（页面组合）、meta.ts（页面注册）。均位于 src/features/site-templates/catalog/offersuite。增删页面需同步 meta.ts 与 .tpl/template.json。
 
 交付前检查源码、依赖锁、规则、素材和验收记录；不提交 node_modules、缓存、日志、真实配置。素材权利见 .tpl/docs/LICENSE.md。当前不应公开上架或商用。
+
+运行图片使用 WebP：照片质量 88，小幅图采用无损编码；保持原尺寸与透明通道，编码误差与来源记录见 .tpl/reports/image-encoding.json 和 public/templates/offersuite/sources.json。此格式转换不代表取得素材许可。

@@ -5,55 +5,159 @@
   "images": [
     {
       "source": "https://framerusercontent.com/images/5Cl1SC41zenj2pkStzhylP1ZQbc.png?scale-down-to=2048",
-      "path": "images/5Cl1SC41zenj2pkStzhylP1ZQbc.png"
+      "path": "images/5Cl1SC41zenj2pkStzhylP1ZQbc.webp",
+      "sha256": "a6927cd65e3ca10d37edad9a21fb8c4c45f1033ac7ebfd20bfde0cd7d49e43a2",
+      "encoding": {
+        "mode": "webp-lossless",
+        "quality": null,
+        "width": 1592,
+        "height": 421,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/LKw1Um4wprQl3SCZjAMHJY1Q.png?scale-down-to=2048",
-      "path": "images/LKw1Um4wprQl3SCZjAMHJY1Q.png"
+      "path": "images/LKw1Um4wprQl3SCZjAMHJY1Q.webp",
+      "sha256": "8a80d28913988f91e12ac63d80ec8698700301f8442c9a9c6e18ca17bdc308ee",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1146,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/K3Gf7wwnJYpWVjWltwHJcJicyQM.png?scale-down-to=2048",
-      "path": "images/K3Gf7wwnJYpWVjWltwHJcJicyQM.png"
+      "path": "images/K3Gf7wwnJYpWVjWltwHJcJicyQM.webp",
+      "sha256": "fd86296cb2afa656d569ce1d5d1faca3f4faa603cade46ff6e5f9eb4ddb31722",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/I4jHp602lgnlvrenIJ0se44UM0g.png?scale-down-to=2048",
-      "path": "images/I4jHp602lgnlvrenIJ0se44UM0g.png"
+      "path": "images/I4jHp602lgnlvrenIJ0se44UM0g.webp",
+      "sha256": "8d90030cd621d55ad4b81329518b7196fd9a6a3cd78406d0e597df2e9b540574",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/TzYg5x2dlp7UEpZQuaN9nThrA.png?scale-down-to=2048",
-      "path": "images/TzYg5x2dlp7UEpZQuaN9nThrA.png"
+      "path": "images/TzYg5x2dlp7UEpZQuaN9nThrA.webp",
+      "sha256": "d906eff476386af488b3f127ab72f477fe74536e340c1d1ac797f8f1680a5e5e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/RHgu2vFEI7SCPCDMj2tzaNiIsMA.png?scale-down-to=2048",
-      "path": "images/RHgu2vFEI7SCPCDMj2tzaNiIsMA.png"
+      "path": "images/RHgu2vFEI7SCPCDMj2tzaNiIsMA.webp",
+      "sha256": "3036540092d9b3236d1e233fd1e260fa4243633c7f97eb5cc4051ead0a88aafb",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/5nwlyAHB2oiFLUcN2uVJOxEpsyo.png?scale-down-to=2048",
-      "path": "images/5nwlyAHB2oiFLUcN2uVJOxEpsyo.png"
+      "path": "images/5nwlyAHB2oiFLUcN2uVJOxEpsyo.webp",
+      "sha256": "e4c5cd4d72006c220d5c99ddbd6f19b2ef43c3d52c77a259cc65d072d2b0b2ff",
+      "encoding": {
+        "mode": "webp-lossless",
+        "quality": null,
+        "width": 201,
+        "height": 48,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/EItxkYcFDdncSjk8I8IMXDOphWI.png?scale-down-to=2048",
-      "path": "images/EItxkYcFDdncSjk8I8IMXDOphWI.png"
+      "path": "images/EItxkYcFDdncSjk8I8IMXDOphWI.webp",
+      "sha256": "28827bf067b2c2a74e45006e74c0cc8277df2bb86fc79d82ad99d2e93173d40e",
+      "encoding": {
+        "mode": "webp-lossless",
+        "quality": null,
+        "width": 184,
+        "height": 48,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/ucjzrLvIcq5wyZEYPxnsQ341g.png?scale-down-to=2048",
-      "path": "images/ucjzrLvIcq5wyZEYPxnsQ341g.png"
+      "path": "images/ucjzrLvIcq5wyZEYPxnsQ341g.webp",
+      "sha256": "27cdcfed417b56fcb9ca2e3d12f14a3ccbef974e9fee36fdf0f017200865251a",
+      "encoding": {
+        "mode": "webp-lossless",
+        "quality": null,
+        "width": 192,
+        "height": 48,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/JITa01Qg1afOsx9x1a23MDys6Eg.png?scale-down-to=2048",
-      "path": "images/JITa01Qg1afOsx9x1a23MDys6Eg.png"
+      "path": "images/JITa01Qg1afOsx9x1a23MDys6Eg.webp",
+      "sha256": "28205c2a9fe768ffb7f37dadc2a978907d1ae1b67a83ddf63fbe23d63fac8fc2",
+      "encoding": {
+        "mode": "webp-lossless",
+        "quality": null,
+        "width": 177,
+        "height": 48,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/I4PyZYlOJWTAhTOnDHotWXpiVwY.png?scale-down-to=2048",
-      "path": "images/I4PyZYlOJWTAhTOnDHotWXpiVwY.png"
+      "path": "images/I4PyZYlOJWTAhTOnDHotWXpiVwY.webp",
+      "sha256": "ab4c2ad73ffbe6bf864585d755a24bfaa77e0083f34171fa54724547edcaf305",
+      "encoding": {
+        "mode": "webp-lossless",
+        "quality": null,
+        "width": 219,
+        "height": 48,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/omwSuXuoSOegnTLGjt2wDhMtkY.png?scale-down-to=2048",
-      "path": "images/omwSuXuoSOegnTLGjt2wDhMtkY.png"
+      "path": "images/omwSuXuoSOegnTLGjt2wDhMtkY.webp",
+      "sha256": "82d921b7e9d99ed803c152f75763fc1b65de3069b66642c836ed7daba64f4a0c",
+      "encoding": {
+        "mode": "webp-lossless",
+        "quality": null,
+        "width": 188,
+        "height": 48,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/AMLLiZuduma63h4dYoaSWOodzRw.png?scale-down-to=2048",
-      "path": "images/AMLLiZuduma63h4dYoaSWOodzRw.png"
+      "path": "images/AMLLiZuduma63h4dYoaSWOodzRw.webp",
+      "sha256": "09a25d7f909936be9c3a1b6a43cd209ddec37ed1050dc40286dee282ca567721",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/sOLVvJFWqHQDYZmetHPv5QuojW4.webp?scale-down-to=2048",
@@ -61,11 +165,27 @@
     },
     {
       "source": "https://framerusercontent.com/images/rPGw9NJklZHRIr6WU6GMtflDP8.png?scale-down-to=2048",
-      "path": "images/rPGw9NJklZHRIr6WU6GMtflDP8.png"
+      "path": "images/rPGw9NJklZHRIr6WU6GMtflDP8.webp",
+      "sha256": "d632706d0894e0f96a87e8a81b26d5470f1012c380ec1b11791c44cde01a5f5f",
+      "encoding": {
+        "mode": "webp-lossless",
+        "quality": null,
+        "width": 1635,
+        "height": 493,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/1xrqzqFhwXuqCAHeIgDysY2EIds.png?scale-down-to=2048",
-      "path": "images/1xrqzqFhwXuqCAHeIgDysY2EIds.png"
+      "path": "images/1xrqzqFhwXuqCAHeIgDysY2EIds.webp",
+      "sha256": "aeee879b414db1a2034d6cfba28a40ef1c48945ef1e6bc68314aadd0e90f28d9",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1448,
+        "height": 1086,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Z4MKNwoRBBRyv2nnQlvA04Df6Q.jpg?scale-down-to=2048",
@@ -105,119 +225,351 @@
     },
     {
       "source": "https://framerusercontent.com/images/cWUmOrFnd4iihOLrRk4oFbvb7Y.png?scale-down-to=2048",
-      "path": "images/cWUmOrFnd4iihOLrRk4oFbvb7Y.png"
+      "path": "images/cWUmOrFnd4iihOLrRk4oFbvb7Y.webp",
+      "sha256": "efa84518e8faadf26d5599ce44cdaec7366f4a19711117e59e4836b1b8e9bdb6",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Pg6BmHadTu7dF9uw4myUwUuwsE.png?scale-down-to=2048",
-      "path": "images/Pg6BmHadTu7dF9uw4myUwUuwsE.png"
+      "path": "images/Pg6BmHadTu7dF9uw4myUwUuwsE.webp",
+      "sha256": "8cf6fa9d1ae8126d6e886a934f5dc151acb8f5f4100b5cc649e17a2f7b213598",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/SskjD5CnYG9WlCqSjmPxPQXXU.png?scale-down-to=2048",
-      "path": "images/SskjD5CnYG9WlCqSjmPxPQXXU.png"
+      "path": "images/SskjD5CnYG9WlCqSjmPxPQXXU.webp",
+      "sha256": "b8149e70b9038eb2e13639a40d754bb0f40f204dc0105afc9f2b38a24257b522",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/5NIh5GRNRJkrlaYz8rzlBPtNtw.png?scale-down-to=2048",
-      "path": "images/5NIh5GRNRJkrlaYz8rzlBPtNtw.png"
+      "path": "images/5NIh5GRNRJkrlaYz8rzlBPtNtw.webp",
+      "sha256": "95ba2aa5ff1a3af5486d446e44b300ff4ee7081fb13d4b8548fd59f19d3f5379",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/i8ij4Pr90Y3HLMduLEGZJ4vEdg.png?scale-down-to=2048",
-      "path": "images/i8ij4Pr90Y3HLMduLEGZJ4vEdg.png"
+      "path": "images/i8ij4Pr90Y3HLMduLEGZJ4vEdg.webp",
+      "sha256": "977cfb218e8a51d985f7a21517cb8d24dc8290b0ee91d3c27cf9425581821d5a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/X9ylSBtxVhbvkzAW5BTZbUfywY.png?scale-down-to=2048",
-      "path": "images/X9ylSBtxVhbvkzAW5BTZbUfywY.png"
+      "path": "images/X9ylSBtxVhbvkzAW5BTZbUfywY.webp",
+      "sha256": "52388e40641633aac0386f5352a3c69b8ae7fff4a0b9a52054f0ad4098554b63",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/jlD5MTWhuh1fPRwXpQxzUrNZI.png?scale-down-to=2048",
-      "path": "images/jlD5MTWhuh1fPRwXpQxzUrNZI.png"
+      "path": "images/jlD5MTWhuh1fPRwXpQxzUrNZI.webp",
+      "sha256": "ae3cc88402ff5d3e50c26d2f3fe11b1dccc85d27afbb29915cfc591febcd5db1",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/HprW50iIucVn4QGzPvLxN9Sk9Es.png?scale-down-to=2048",
-      "path": "images/HprW50iIucVn4QGzPvLxN9Sk9Es.png"
+      "path": "images/HprW50iIucVn4QGzPvLxN9Sk9Es.webp",
+      "sha256": "15402b0c938c127b7cc0c5908456cb0dc0cf891411cec0d0d7142652e1dcc305",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/2TYkTV5DfVjx7jdSYRDgL9pRBC0.png?scale-down-to=2048",
-      "path": "images/2TYkTV5DfVjx7jdSYRDgL9pRBC0.png"
+      "path": "images/2TYkTV5DfVjx7jdSYRDgL9pRBC0.webp",
+      "sha256": "6efc14cde126244d5d6ee80f6ed33d2add2e328eec767f35f8626dcbf44a1f76",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Sv3ZnGHpzXsQ9PLnqDXTCVYdU.png?scale-down-to=2048",
-      "path": "images/Sv3ZnGHpzXsQ9PLnqDXTCVYdU.png"
+      "path": "images/Sv3ZnGHpzXsQ9PLnqDXTCVYdU.webp",
+      "sha256": "a0ba7e1862d16c03f725db698d13c08e07b81993e8c3c39b9c2e78a213620497",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/LWz4wIbNzpKqtUTPmE7iu4KylGQ.png?scale-down-to=2048",
-      "path": "images/LWz4wIbNzpKqtUTPmE7iu4KylGQ.png"
+      "path": "images/LWz4wIbNzpKqtUTPmE7iu4KylGQ.webp",
+      "sha256": "2dd068c590dc8207f3ea32c2da7292e674bfa19b150f6dcc138e02ecb5f30d16",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/uRxWHdRjuMVxB1A0PVquqNHxmO0.png?scale-down-to=2048",
-      "path": "images/uRxWHdRjuMVxB1A0PVquqNHxmO0.png"
+      "path": "images/uRxWHdRjuMVxB1A0PVquqNHxmO0.webp",
+      "sha256": "185f5d9a2c62f71457f4c91b316c9413f0dd0b60f03247011fac7733be333e4e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/gaypEMMcMHNg8jxitKHdwZ8spA4.png?scale-down-to=2048",
-      "path": "images/gaypEMMcMHNg8jxitKHdwZ8spA4.png"
+      "path": "images/gaypEMMcMHNg8jxitKHdwZ8spA4.webp",
+      "sha256": "18824b871b7fb7cced0b782773a79d223324a9c217d234db14a089467e05afa8",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Z34ZXjvhaqtL5bE7irlsMh5IJU.png?scale-down-to=2048",
-      "path": "images/Z34ZXjvhaqtL5bE7irlsMh5IJU.png"
+      "path": "images/Z34ZXjvhaqtL5bE7irlsMh5IJU.webp",
+      "sha256": "52ed0138e3f185c1c5f4674d82c0483171f88501a3e70ceb002948c52ab6732b",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/XTxdQnjdDzQBiYhSyU0NETBMZY.png?scale-down-to=2048",
-      "path": "images/XTxdQnjdDzQBiYhSyU0NETBMZY.png"
+      "path": "images/XTxdQnjdDzQBiYhSyU0NETBMZY.webp",
+      "sha256": "d9d37772a9e0d8698f92dc5f2cb791d95a3918dacda9f6b613faf5cc4f922580",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Tjy1sLJC6aHU1oPAy0W7aGXElI.png?scale-down-to=2048",
-      "path": "images/Tjy1sLJC6aHU1oPAy0W7aGXElI.png"
+      "path": "images/Tjy1sLJC6aHU1oPAy0W7aGXElI.webp",
+      "sha256": "78a0a0cc800c3300ebd0d1a8c61cf4be2fd8fa209535ce23fe1e9118746d6087",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/FUhrbPmUZ4yOgGNigwmQM1uLPE.png?scale-down-to=2048",
-      "path": "images/FUhrbPmUZ4yOgGNigwmQM1uLPE.png"
+      "path": "images/FUhrbPmUZ4yOgGNigwmQM1uLPE.webp",
+      "sha256": "3a0140b74d5eecd64e73af3672cb3b13a863f8bfba35d19133578e658acfa9cb",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/sZWN0Y3SoiTLRx8mNchru3q2qg.png?scale-down-to=2048",
-      "path": "images/sZWN0Y3SoiTLRx8mNchru3q2qg.png"
+      "path": "images/sZWN0Y3SoiTLRx8mNchru3q2qg.webp",
+      "sha256": "d99c0fdffb1bdc0825ff9f0f8b4a0b54c4c92830babe8ca5200296b8ab88cdb3",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/ytnz5NMdfcZv72vHwlCwFJKFM.png?scale-down-to=2048",
-      "path": "images/ytnz5NMdfcZv72vHwlCwFJKFM.png"
+      "path": "images/ytnz5NMdfcZv72vHwlCwFJKFM.webp",
+      "sha256": "f2e611b7bdb526c1ef9b3a7b954c19deadb44b9756f1eb7aae369f7b694fd422",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/81xfcRDstkvRnlsgOroP59MhI.png?scale-down-to=2048",
-      "path": "images/81xfcRDstkvRnlsgOroP59MhI.png"
+      "path": "images/81xfcRDstkvRnlsgOroP59MhI.webp",
+      "sha256": "c92bd82e4788ade9d184275c07bbb5ee4a22b81d27fc344211cfb202154ce1c3",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/GrbxDwS6hZVJjJYcnyXWM1vTIa0.png?scale-down-to=2048",
-      "path": "images/GrbxDwS6hZVJjJYcnyXWM1vTIa0.png"
+      "path": "images/GrbxDwS6hZVJjJYcnyXWM1vTIa0.webp",
+      "sha256": "4c4d78e48b81d5e94c8336367e7b0dd1b1d7def081ffe166c6e8f4230920a056",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/76keL0jE9vdLQeKFxPjbYiTs1PM.png?scale-down-to=2048",
-      "path": "images/76keL0jE9vdLQeKFxPjbYiTs1PM.png"
+      "path": "images/76keL0jE9vdLQeKFxPjbYiTs1PM.webp",
+      "sha256": "a7f768bf64254d6b3ae82f8f25c958d445b9b2fc735545bc34aca4f217a9cc35",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/9Sa4pDmNsXsyKvskdZ6IVly4ao.png?scale-down-to=2048",
-      "path": "images/9Sa4pDmNsXsyKvskdZ6IVly4ao.png"
+      "path": "images/9Sa4pDmNsXsyKvskdZ6IVly4ao.webp",
+      "sha256": "9273f98fd233e5ee0981b87595af676e0a9092a5522b8f8335e163be24784b0e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/2JyvF4h80Slmof8hikod3Qg1XM.png?scale-down-to=2048",
-      "path": "images/2JyvF4h80Slmof8hikod3Qg1XM.png"
+      "path": "images/2JyvF4h80Slmof8hikod3Qg1XM.webp",
+      "sha256": "0f8dc56ee17e7bfb8c3139a7ee4352602e1839126d6449068e5ec69f8e23cec6",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Y8sO0xj16hm1pcEdCd8AGJX1k.png?scale-down-to=2048",
-      "path": "images/Y8sO0xj16hm1pcEdCd8AGJX1k.png"
+      "path": "images/Y8sO0xj16hm1pcEdCd8AGJX1k.webp",
+      "sha256": "073c1cd4ebdae374f71f53e601f6e75284318ffe47b970f7fdaccbf97c8f3d73",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/mZFwW1IhZGymoBiXDZB2VTXI.png?scale-down-to=2048",
-      "path": "images/mZFwW1IhZGymoBiXDZB2VTXI.png"
+      "path": "images/mZFwW1IhZGymoBiXDZB2VTXI.webp",
+      "sha256": "207b9e23f06411ea6efed2e07d5779f15e3276543d868e33355ba0a11ad4fa0c",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1254,
+        "height": 1254,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png?scale-down-to=2048",
-      "path": "images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png"
+      "path": "images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.webp",
+      "sha256": "7713ba6b7e40421feee02e46f5a74593a8d9ce8132aca795291a1d0a8388a39a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1254,
+        "height": 1254,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png?scale-down-to=2048",
-      "path": "images/vlZRd1VASrBK0KBYCbcRVjVGq0.png"
+      "path": "images/vlZRd1VASrBK0KBYCbcRVjVGq0.webp",
+      "sha256": "e77a91ab0f814763b6f2b661d6821f281d8affa5be9ea6d9eb21a70494eadb57",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1254,
+        "height": 1254,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/DhDbxxlIftn4MyaaV9RxfBEugk.png?scale-down-to=2048",
-      "path": "images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+      "path": "images/DhDbxxlIftn4MyaaV9RxfBEugk.webp",
+      "sha256": "7602f7cb0a5514798c3079260801023c78448bdcc6bdd4975a2db6272140b3da",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1254,
+        "height": 1254,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/2paDgVO2rAVmPPrmZHkJ2ABOuto.webp?scale-down-to=2048",
@@ -233,103 +585,303 @@
     },
     {
       "source": "https://framerusercontent.com/images/6mnOuCwPcdbLnFAfsLsa2GHVeg.png?scale-down-to=2048",
-      "path": "images/6mnOuCwPcdbLnFAfsLsa2GHVeg.png"
+      "path": "images/6mnOuCwPcdbLnFAfsLsa2GHVeg.webp",
+      "sha256": "bd254265a3c3c829575debd8676025dd1b76b43c78ab3ba13a8811fba781cf15",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Bl9kf0QNVvOnEekDiPn4PpkvvdY.png?scale-down-to=2048",
-      "path": "images/Bl9kf0QNVvOnEekDiPn4PpkvvdY.png"
+      "path": "images/Bl9kf0QNVvOnEekDiPn4PpkvvdY.webp",
+      "sha256": "ddf4b7b31538144c0dde2d732f46fd75705a3dfc2f5764d16b5a845a2f55d498",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/1C6I6YUXjE32EJIDgHhuyAelHw.png?scale-down-to=2048",
-      "path": "images/1C6I6YUXjE32EJIDgHhuyAelHw.png"
+      "path": "images/1C6I6YUXjE32EJIDgHhuyAelHw.webp",
+      "sha256": "4d271ed97d6499aef96538b011a0834bc10919e463fafa83ff247b962211b569",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/O7HB2JIptq16rxhYmLeuriYp8.png?scale-down-to=2048",
-      "path": "images/O7HB2JIptq16rxhYmLeuriYp8.png"
+      "path": "images/O7HB2JIptq16rxhYmLeuriYp8.webp",
+      "sha256": "428b298e0da3612d7b996be77eccc22b482797dfc9d325befbfc83ac6da7d1e5",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/iTWR1DfDWiPTKHvcF1DjVNtOvE8.png?scale-down-to=2048",
-      "path": "images/iTWR1DfDWiPTKHvcF1DjVNtOvE8.png"
+      "path": "images/iTWR1DfDWiPTKHvcF1DjVNtOvE8.webp",
+      "sha256": "88e9ee21a0eee9890522581c88bff7a95c7ae82f48e64a76dff2032f3e2cf054",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/QoMKoNH5iDZPfKklI3JYOlHxVto.png?scale-down-to=2048",
-      "path": "images/QoMKoNH5iDZPfKklI3JYOlHxVto.png"
+      "path": "images/QoMKoNH5iDZPfKklI3JYOlHxVto.webp",
+      "sha256": "42b46c7fa6a3e4dbe37f81c9d0eddd98b25f91e7e6771ad6c6cee4b87c317ec9",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/TZrHbcxA1c3kHyvJnGdDYwnw.png?scale-down-to=2048",
-      "path": "images/TZrHbcxA1c3kHyvJnGdDYwnw.png"
+      "path": "images/TZrHbcxA1c3kHyvJnGdDYwnw.webp",
+      "sha256": "5199b7c765153b14f878360bb975c09eafa0441d087684e0a4c4a4baab21c735",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Wvn8Gq5LaFtOdVZHzJmJag6kR8.png?scale-down-to=2048",
-      "path": "images/Wvn8Gq5LaFtOdVZHzJmJag6kR8.png"
+      "path": "images/Wvn8Gq5LaFtOdVZHzJmJag6kR8.webp",
+      "sha256": "eb0b69ae8d9bc60c72b5f847029e0222dca158737139ee68282f549b7cec916a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/hraePGGOU9DksDzWMQOVSa5KPE.png?scale-down-to=2048",
-      "path": "images/hraePGGOU9DksDzWMQOVSa5KPE.png"
+      "path": "images/hraePGGOU9DksDzWMQOVSa5KPE.webp",
+      "sha256": "eb091f84b8b17472f115d2f73c1d1668816d2dc9fb4106728ace77b534a684c5",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/lhZLZ60ttRh25vUEfeJXEeT7jGk.png?scale-down-to=2048",
-      "path": "images/lhZLZ60ttRh25vUEfeJXEeT7jGk.png"
+      "path": "images/lhZLZ60ttRh25vUEfeJXEeT7jGk.webp",
+      "sha256": "9be3d591cca9c4cb97680b4ab0294527eeb289a690a7860b60f980905595f7a3",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/1QQFJa1JStzQu0Bg8sWlBJwJU.png?scale-down-to=2048",
-      "path": "images/1QQFJa1JStzQu0Bg8sWlBJwJU.png"
+      "path": "images/1QQFJa1JStzQu0Bg8sWlBJwJU.webp",
+      "sha256": "90e268dc9f00d8885a86b98e9a996682d407129bf8d3da8efff7b1fabe0ddca7",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/k25uP1x9P3Ed678qrygC38Eq8xY.png?scale-down-to=2048",
-      "path": "images/k25uP1x9P3Ed678qrygC38Eq8xY.png"
+      "path": "images/k25uP1x9P3Ed678qrygC38Eq8xY.webp",
+      "sha256": "9588aa3004841f0bb2a936e6d026cb513d1df7e116cfaa5d05dcd89f84a91395",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/dTo0rog61AxcgbDNRUSXDzUrDo.png?scale-down-to=2048",
-      "path": "images/dTo0rog61AxcgbDNRUSXDzUrDo.png"
+      "path": "images/dTo0rog61AxcgbDNRUSXDzUrDo.webp",
+      "sha256": "b40ab92775d251a6bae589507b9a9757b005d8bd7b51300d91ae9e964348d491",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/tPKF4x49dykXkQzpq2HTQGFY188.png?scale-down-to=2048",
-      "path": "images/tPKF4x49dykXkQzpq2HTQGFY188.png"
+      "path": "images/tPKF4x49dykXkQzpq2HTQGFY188.webp",
+      "sha256": "6f4ffcb2d2fe6eb9ae1f4403c94a4ef882e757dabf75ab52b50ec0f0eb27be35",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/fmAqcWFimqW3cjTSyzs4sweSRg.png?scale-down-to=2048",
-      "path": "images/fmAqcWFimqW3cjTSyzs4sweSRg.png"
+      "path": "images/fmAqcWFimqW3cjTSyzs4sweSRg.webp",
+      "sha256": "7761f168062dfb0bdf5f12a193f982254700182b3067c827fb2a9325844dcc4d",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/8qSt6bWx4Qs68myyT6TZAH728mA.png?scale-down-to=2048",
-      "path": "images/8qSt6bWx4Qs68myyT6TZAH728mA.png"
+      "path": "images/8qSt6bWx4Qs68myyT6TZAH728mA.webp",
+      "sha256": "976fb910f2de4428f1c3fb2ff1f413520addddc29151579cb4d2384289347a10",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/XzV0TtG5S3tAFbQvyh0oF3JlSg.png?scale-down-to=2048",
-      "path": "images/XzV0TtG5S3tAFbQvyh0oF3JlSg.png"
+      "path": "images/XzV0TtG5S3tAFbQvyh0oF3JlSg.webp",
+      "sha256": "6c2a3a0a712f4ba0539ce4d3a3eb3be0eb51094aeaba4171a49a262cfdfe09f9",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/7zw7214mHjHv0IGKrnMphXu6Ko.png?scale-down-to=2048",
-      "path": "images/7zw7214mHjHv0IGKrnMphXu6Ko.png"
+      "path": "images/7zw7214mHjHv0IGKrnMphXu6Ko.webp",
+      "sha256": "0bac4b3ae946b93b62f95335ce4ad58a2b99a5584a27991b5325a6123f9c562f",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/LOtAY1Amx3SWjzqIroXulebPk8Y.png?scale-down-to=2048",
-      "path": "images/LOtAY1Amx3SWjzqIroXulebPk8Y.png"
+      "path": "images/LOtAY1Amx3SWjzqIroXulebPk8Y.webp",
+      "sha256": "d73733c27f3e469ca4602568edb5b9ccf2717a586a606de07ce55ac42054117a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/NDUI7Yc58fyAf4fxiThXAOp1v0.png?scale-down-to=2048",
-      "path": "images/NDUI7Yc58fyAf4fxiThXAOp1v0.png"
+      "path": "images/NDUI7Yc58fyAf4fxiThXAOp1v0.webp",
+      "sha256": "c2ece5c3c20cd0fc7570659d2120b97f1a2607c860f220e15d7db1ac77e2162a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/qdMV2j7dvTQz5mzZiwFIg0dJeI.png?scale-down-to=2048",
-      "path": "images/qdMV2j7dvTQz5mzZiwFIg0dJeI.png"
+      "path": "images/qdMV2j7dvTQz5mzZiwFIg0dJeI.webp",
+      "sha256": "aa83a5b3bef14691cdb04b518eae6e7e163e128f044f1b08b822163ceba1613e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/dSANlHDkcwbfkphb2h6OKGpVnW4.png?scale-down-to=2048",
-      "path": "images/dSANlHDkcwbfkphb2h6OKGpVnW4.png"
+      "path": "images/dSANlHDkcwbfkphb2h6OKGpVnW4.webp",
+      "sha256": "540584885b288b2313994cb52a17ac2ec07cf99102e026f437cce42edb61abf7",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/hHbn1dBxGWmwFwNe2ANneXJlCiE.png?scale-down-to=2048",
-      "path": "images/hHbn1dBxGWmwFwNe2ANneXJlCiE.png"
+      "path": "images/hHbn1dBxGWmwFwNe2ANneXJlCiE.webp",
+      "sha256": "31502c94221a55b22b3cd33463de5ae4f5c1e0d0ed7317dda1c9e7d9b7b12412",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Dflwduh4Ba3A3iZWZAZ1KAg0zqU.png?scale-down-to=2048",
-      "path": "images/Dflwduh4Ba3A3iZWZAZ1KAg0zqU.png"
+      "path": "images/Dflwduh4Ba3A3iZWZAZ1KAg0zqU.webp",
+      "sha256": "b684506e43db11920fb2a1782e853b10aa6eaa3678863a4541455a24b878eb26",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/wV4eIx47pqequ2kbiRnBEMiHvA.png?scale-down-to=2048",
-      "path": "images/wV4eIx47pqequ2kbiRnBEMiHvA.png"
+      "path": "images/wV4eIx47pqequ2kbiRnBEMiHvA.webp",
+      "sha256": "03af6c768193a6fe83ac455905fa5e5c2103ebba9c562226375a100c1a436231",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/6aGxWNH9o8WvqtOwy2Qy82h6UA.webp?scale-down-to=2048",
@@ -341,111 +893,327 @@
     },
     {
       "source": "https://framerusercontent.com/images/3mV6kFqwQSPGrfHuy2n5SThWoJ8.png?scale-down-to=2048",
-      "path": "images/3mV6kFqwQSPGrfHuy2n5SThWoJ8.png"
+      "path": "images/3mV6kFqwQSPGrfHuy2n5SThWoJ8.webp",
+      "sha256": "9e7543b0623b1bc06ff753c1eff35a810b095ff5f3489ed4774becf74b449d96",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/OdbVheQaBouZTjH3BthdEca904.png?scale-down-to=2048",
-      "path": "images/OdbVheQaBouZTjH3BthdEca904.png"
+      "path": "images/OdbVheQaBouZTjH3BthdEca904.webp",
+      "sha256": "b00c2be589ddffda2a2a5700691a6c5f1057426d1fc5245c04df7b7a93ad6692",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/ZsWIizSq6CuuxEDEkBLE72uZijc.png?scale-down-to=2048",
-      "path": "images/ZsWIizSq6CuuxEDEkBLE72uZijc.png"
+      "path": "images/ZsWIizSq6CuuxEDEkBLE72uZijc.webp",
+      "sha256": "958f200936fe32ccee993419cbcd5c0451f123c981537dea9d1f5bc5b10a271e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Kg9a9apwEQ3WaKk4oLsnUMvM.png?scale-down-to=2048",
-      "path": "images/Kg9a9apwEQ3WaKk4oLsnUMvM.png"
+      "path": "images/Kg9a9apwEQ3WaKk4oLsnUMvM.webp",
+      "sha256": "72827f4f8ca093e804b5c044b764333cc4f5d1213d4d754c25611b6f7b2f8458",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/lGNSbuoNug54zxh0jLpJKjXipfo.png?scale-down-to=2048",
-      "path": "images/lGNSbuoNug54zxh0jLpJKjXipfo.png"
+      "path": "images/lGNSbuoNug54zxh0jLpJKjXipfo.webp",
+      "sha256": "feaba234b9365a331fb11260a96bc00bcc3d937b382f433d07be703c50816581",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/1vNhEJBq6hyLGLVrDrrotimK8Q0.png?scale-down-to=2048",
-      "path": "images/1vNhEJBq6hyLGLVrDrrotimK8Q0.png"
+      "path": "images/1vNhEJBq6hyLGLVrDrrotimK8Q0.webp",
+      "sha256": "46272dc758576001d3b7c5a4a2725d4b1fd39ed2b6bd0bb2685e59fbccf233d5",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/JuLYqavZWHB6D0TMelaVADM7Xg.png?scale-down-to=2048",
-      "path": "images/JuLYqavZWHB6D0TMelaVADM7Xg.png"
+      "path": "images/JuLYqavZWHB6D0TMelaVADM7Xg.webp",
+      "sha256": "fae91615c1f96ac0f13fcc293a8e4dcb98ab0d3f6ace1c8bcc662123fdbb502a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/vt5qROFMqR2igJfIiDp0LYAKDo.png?scale-down-to=2048",
-      "path": "images/vt5qROFMqR2igJfIiDp0LYAKDo.png"
+      "path": "images/vt5qROFMqR2igJfIiDp0LYAKDo.webp",
+      "sha256": "e14ebffae6d31080d1887f62c0339963642cb3c3d43bd6fac79c150a05793894",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/8D7NBpVKmMmHKrzt4D0KKN856v8.png?scale-down-to=2048",
-      "path": "images/8D7NBpVKmMmHKrzt4D0KKN856v8.png"
+      "path": "images/8D7NBpVKmMmHKrzt4D0KKN856v8.webp",
+      "sha256": "cd6c48b0ad0009f5c8601583ad2008bd94564a239d6b4fc43b1b57c7c32ad28f",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/eNnaVhEtOARvwJEogwZvBu64O8.png?scale-down-to=2048",
-      "path": "images/eNnaVhEtOARvwJEogwZvBu64O8.png"
+      "path": "images/eNnaVhEtOARvwJEogwZvBu64O8.webp",
+      "sha256": "c8211d5dd366a626f582ba173b44c0b3f7e2a18d4be3590331a60763d1abf370",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/oEu0R8ZZDElxpnSkuXKxFkOKQGA.png?scale-down-to=2048",
-      "path": "images/oEu0R8ZZDElxpnSkuXKxFkOKQGA.png"
+      "path": "images/oEu0R8ZZDElxpnSkuXKxFkOKQGA.webp",
+      "sha256": "27d143e91c1a4fcbabe457e3bb9711cc810c48275482c370412d4b802cc94278",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/OVyESJzYkAVyYr5TynG7KSR3dbg.png?scale-down-to=2048",
-      "path": "images/OVyESJzYkAVyYr5TynG7KSR3dbg.png"
+      "path": "images/OVyESJzYkAVyYr5TynG7KSR3dbg.webp",
+      "sha256": "c5aca3c6f33c0e85d53c010dd4d9d20cfe417fe33cb0c06051b86bd4ee684b83",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/ogu3xNNNZMJ8uWlVQLNdDZed34.png?scale-down-to=2048",
-      "path": "images/ogu3xNNNZMJ8uWlVQLNdDZed34.png"
+      "path": "images/ogu3xNNNZMJ8uWlVQLNdDZed34.webp",
+      "sha256": "df83c2a325f1f7ba6741548fd0fe42a163224d81c7af5d59979bf2d44f992927",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/SVkWLlyH4o2b6eCH6MOGSkCg5VI.png?scale-down-to=2048",
-      "path": "images/SVkWLlyH4o2b6eCH6MOGSkCg5VI.png"
+      "path": "images/SVkWLlyH4o2b6eCH6MOGSkCg5VI.webp",
+      "sha256": "f4019a10bf52791039c09b2d3ec12b8282314da6704827a25cbd003d3309c8ee",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/s8nH2roHnZxS2dJSjHqBWfitVI.png?scale-down-to=2048",
-      "path": "images/s8nH2roHnZxS2dJSjHqBWfitVI.png"
+      "path": "images/s8nH2roHnZxS2dJSjHqBWfitVI.webp",
+      "sha256": "b785f11d1a3abdb4357e28fc42c318edeed92396d4679a5d11ec95932c22a005",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/QrWRv4viLbPi9ID4UapszkCeEQ4.png?scale-down-to=2048",
-      "path": "images/QrWRv4viLbPi9ID4UapszkCeEQ4.png"
+      "path": "images/QrWRv4viLbPi9ID4UapszkCeEQ4.webp",
+      "sha256": "4c5b6cb9eb3d32df0069feb803784c53c6f92dbd34bc141722e868dbb1c8149f",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/QJZ2Yke1hxciUr4mE5UzhpXEfJc.png?scale-down-to=2048",
-      "path": "images/QJZ2Yke1hxciUr4mE5UzhpXEfJc.png"
+      "path": "images/QJZ2Yke1hxciUr4mE5UzhpXEfJc.webp",
+      "sha256": "5313b2f46405be1540193f7d6bf7b56458737d2fb538d10067d27be919e438d7",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Edul4IZ1JZO7SL91PXn8JWN4nE.png?scale-down-to=2048",
-      "path": "images/Edul4IZ1JZO7SL91PXn8JWN4nE.png"
+      "path": "images/Edul4IZ1JZO7SL91PXn8JWN4nE.webp",
+      "sha256": "165aef17bfdba8fc4e8987468c337c8e45b5d2a5f8cd194bae1e196205a9841b",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/fm1xPZW0EeBebmOFf536XZvc.png?scale-down-to=2048",
-      "path": "images/fm1xPZW0EeBebmOFf536XZvc.png"
+      "path": "images/fm1xPZW0EeBebmOFf536XZvc.webp",
+      "sha256": "52a24c74fb484d553ca0dcb2b5296155a1b43330e3211d5a5c80ef6039addd83",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/VPwBpt7pPzchHsE9lPpbzGJmshc.png?scale-down-to=2048",
-      "path": "images/VPwBpt7pPzchHsE9lPpbzGJmshc.png"
+      "path": "images/VPwBpt7pPzchHsE9lPpbzGJmshc.webp",
+      "sha256": "8c6cbf8dc106d25759d892aee8219f01bc30a2e5fd02893bf395cd5c380ff564",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/EJOuDDNye7WdBBL9IQnVDYU8OcU.png?scale-down-to=2048",
-      "path": "images/EJOuDDNye7WdBBL9IQnVDYU8OcU.png"
+      "path": "images/EJOuDDNye7WdBBL9IQnVDYU8OcU.webp",
+      "sha256": "963f3e6064736f097d1349b35b9e7b21b12a5f1163632c7a7deb68b75bd45c9e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/DLHYwg97B2gvHKJoC4sZdrdUiQ0.png?scale-down-to=2048",
-      "path": "images/DLHYwg97B2gvHKJoC4sZdrdUiQ0.png"
+      "path": "images/DLHYwg97B2gvHKJoC4sZdrdUiQ0.webp",
+      "sha256": "e151feec6c157101a811c89026a90b326e28e408ec20726ceb355587812a9e8d",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/kcKzJWwe99OE2ME6NlSrLl4VU.png?scale-down-to=2048",
-      "path": "images/kcKzJWwe99OE2ME6NlSrLl4VU.png"
+      "path": "images/kcKzJWwe99OE2ME6NlSrLl4VU.webp",
+      "sha256": "91734897127eb10e391298a0520c6f36477d06eb1d402ab2b9bc1c53c6da5547",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/7WaxslpUxj9wGKmznBiAbdzkA4Y.png?scale-down-to=2048",
-      "path": "images/7WaxslpUxj9wGKmznBiAbdzkA4Y.png"
+      "path": "images/7WaxslpUxj9wGKmznBiAbdzkA4Y.webp",
+      "sha256": "c3a308ac3041992ca3476d56b39d238544f1c9c75d19254dbe357634e66c48aa",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/o2MGUsyFGUfArEYLLclGfOnVVPg.png?scale-down-to=2048",
-      "path": "images/o2MGUsyFGUfArEYLLclGfOnVVPg.png"
+      "path": "images/o2MGUsyFGUfArEYLLclGfOnVVPg.webp",
+      "sha256": "ed3dd7f1dbe16d5cdc0049b68c8bdedac8c8c663afb99e6c929d5371d499e947",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/KcfadPw1XRGnPiAVNkI3IBB7ZI4.png?scale-down-to=2048",
-      "path": "images/KcfadPw1XRGnPiAVNkI3IBB7ZI4.png"
+      "path": "images/KcfadPw1XRGnPiAVNkI3IBB7ZI4.webp",
+      "sha256": "63b33ed01249c2fc3ad8c78b3ca7b7e39000982f5a70449a4500ab16ec682a8f",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/dJKMI0OsoKLdBR2nVFvD1MePloA.png?scale-down-to=2048",
-      "path": "images/dJKMI0OsoKLdBR2nVFvD1MePloA.png"
+      "path": "images/dJKMI0OsoKLdBR2nVFvD1MePloA.webp",
+      "sha256": "eb39781b95eb25e63acd36957d98fa51410a62d97c3be1d335a369bbb425b091",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/bipwES7RS5UQF1uh91SlWv5fBo.webp?scale-down-to=2048",
@@ -457,111 +1225,327 @@
     },
     {
       "source": "https://framerusercontent.com/images/ashyR95sQaBhU4lzncmNbhqmYQ.png?scale-down-to=2048",
-      "path": "images/ashyR95sQaBhU4lzncmNbhqmYQ.png"
+      "path": "images/ashyR95sQaBhU4lzncmNbhqmYQ.webp",
+      "sha256": "b34e6f136e12cd56ae164b98d17fec6c1b5b0fa2cbeb7c9c34ba25912a10c006",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/LlzvVg49w1Nl1bmCnDzoqmQ.png?scale-down-to=2048",
-      "path": "images/LlzvVg49w1Nl1bmCnDzoqmQ.png"
+      "path": "images/LlzvVg49w1Nl1bmCnDzoqmQ.webp",
+      "sha256": "8a9293dc5efa21b63fe9f95c328ada633198bcb68d8dc8e92c96259516ca2647",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/7zYOw0RIAKMcesQ99BG4fEFSO0.png?scale-down-to=2048",
-      "path": "images/7zYOw0RIAKMcesQ99BG4fEFSO0.png"
+      "path": "images/7zYOw0RIAKMcesQ99BG4fEFSO0.webp",
+      "sha256": "e104060bcf8c98cb7b02d6d2ae737d76c046a9558e3a0a7ace1731fb315b0b91",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/OnQdczuCPzGu0rr2IiMfznptHn8.png?scale-down-to=2048",
-      "path": "images/OnQdczuCPzGu0rr2IiMfznptHn8.png"
+      "path": "images/OnQdczuCPzGu0rr2IiMfznptHn8.webp",
+      "sha256": "515c67a66f6c4b93f85363db97a7e28d4ee1a821a2471a2d73aae823fb298bd4",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/lip248EcfxGKv28kVj9YmuoUYL4.png?scale-down-to=2048",
-      "path": "images/lip248EcfxGKv28kVj9YmuoUYL4.png"
+      "path": "images/lip248EcfxGKv28kVj9YmuoUYL4.webp",
+      "sha256": "992f45037b54ea1e4bbe15dd0d2b42710eb31fb7e624d42e313a4f72b8bacdd7",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/av92Lfue4o63HjnBuGF3QYuz9j8.png?scale-down-to=2048",
-      "path": "images/av92Lfue4o63HjnBuGF3QYuz9j8.png"
+      "path": "images/av92Lfue4o63HjnBuGF3QYuz9j8.webp",
+      "sha256": "af0a8956c34c212bf02b3b4f7483161a7889a0e3ba2c19c6a132e5f7d6986adc",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/tvilaYRIyluSrwE8W1iGotSM8.png?scale-down-to=2048",
-      "path": "images/tvilaYRIyluSrwE8W1iGotSM8.png"
+      "path": "images/tvilaYRIyluSrwE8W1iGotSM8.webp",
+      "sha256": "d220e33da14ac87cb772ed4c79ff48b1d6bd953ff019cc50f03baec7dcffb9c0",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/vWo50WLttgfcNE66GhbadCInc.png?scale-down-to=2048",
-      "path": "images/vWo50WLttgfcNE66GhbadCInc.png"
+      "path": "images/vWo50WLttgfcNE66GhbadCInc.webp",
+      "sha256": "b597b19549577c4c1b7bcf27151bf268b0ab7cf33460f24515bdf5708d7ca909",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/cQWrUInn4suYuImsrEnMrPEOfGU.png?scale-down-to=2048",
-      "path": "images/cQWrUInn4suYuImsrEnMrPEOfGU.png"
+      "path": "images/cQWrUInn4suYuImsrEnMrPEOfGU.webp",
+      "sha256": "5f5b5eec6871ebc2c236bd4bfebeb1af26fb46f4f3cb552fb9e5ec0d4fc3245c",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/zWumX8aIx7F3Hh5b6FzkkvBow.png?scale-down-to=2048",
-      "path": "images/zWumX8aIx7F3Hh5b6FzkkvBow.png"
+      "path": "images/zWumX8aIx7F3Hh5b6FzkkvBow.webp",
+      "sha256": "73cb66918cbeb4b948d1788acd252a79aa2c5afce0a4748c44782dd8e27b2673",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/76hW2uiXaiSUJRWzus2GJvji5g.png?scale-down-to=2048",
-      "path": "images/76hW2uiXaiSUJRWzus2GJvji5g.png"
+      "path": "images/76hW2uiXaiSUJRWzus2GJvji5g.webp",
+      "sha256": "48f8c8945f4c6bdffdf6358a3a130dcc04c3bf1464dd183f49129707054ec3c8",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/kjO41rJYVTk5iVNGF7g1gqxsGUI.png?scale-down-to=2048",
-      "path": "images/kjO41rJYVTk5iVNGF7g1gqxsGUI.png"
+      "path": "images/kjO41rJYVTk5iVNGF7g1gqxsGUI.webp",
+      "sha256": "4a1277b0ab6b681fbef760eb7008a787e6e85fa5143f099cadf3aeb4c8de5322",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/tgkLr5wYyeqnWHSkYz4Zuo8viYg.png?scale-down-to=2048",
-      "path": "images/tgkLr5wYyeqnWHSkYz4Zuo8viYg.png"
+      "path": "images/tgkLr5wYyeqnWHSkYz4Zuo8viYg.webp",
+      "sha256": "2131d46a2ce8d21b386ee0ede123af7b57bb6f93bc3c2c038a61874231f15d11",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/QZHbfrSrpN1Sz8DOjygHuazbs.png?scale-down-to=2048",
-      "path": "images/QZHbfrSrpN1Sz8DOjygHuazbs.png"
+      "path": "images/QZHbfrSrpN1Sz8DOjygHuazbs.webp",
+      "sha256": "d24780fea138ece040beffd86e9089740d17476d9344da0c4de7408644312c8b",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/0b9CUCVnO3zIcKrzNfKRvfW1z0.png?scale-down-to=2048",
-      "path": "images/0b9CUCVnO3zIcKrzNfKRvfW1z0.png"
+      "path": "images/0b9CUCVnO3zIcKrzNfKRvfW1z0.webp",
+      "sha256": "313d6be3d71cdeb6cd4ce8aefdb861b96324f4493674216cdf3f2d1adae4a08e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/3wKEvuitD8MOG3lKT0ek4Bcsvhw.png?scale-down-to=2048",
-      "path": "images/3wKEvuitD8MOG3lKT0ek4Bcsvhw.png"
+      "path": "images/3wKEvuitD8MOG3lKT0ek4Bcsvhw.webp",
+      "sha256": "a76c008316d9b67ca36bfaf30a6019b570e1388f62a8962ba20748bf7d8b57ba",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/MDOTAoF8g4ux2G7SAAQH3uP1yx8.png?scale-down-to=2048",
-      "path": "images/MDOTAoF8g4ux2G7SAAQH3uP1yx8.png"
+      "path": "images/MDOTAoF8g4ux2G7SAAQH3uP1yx8.webp",
+      "sha256": "6aeeb2bec2513b53e9219ad981f78361aaacd57a102256af945e5cde5c2bb4f6",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Kzj7ZZkWGp0e2dY0jQCo43P6e3w.png?scale-down-to=2048",
-      "path": "images/Kzj7ZZkWGp0e2dY0jQCo43P6e3w.png"
+      "path": "images/Kzj7ZZkWGp0e2dY0jQCo43P6e3w.webp",
+      "sha256": "a137041935db968b6d5d6bb7143a7f43f876e9bf57673f74926dca0be86497f9",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/jaMloZMk4HsPCVFmXMrAKC2Foc.png?scale-down-to=2048",
-      "path": "images/jaMloZMk4HsPCVFmXMrAKC2Foc.png"
+      "path": "images/jaMloZMk4HsPCVFmXMrAKC2Foc.webp",
+      "sha256": "b9b532478d43e02295d1609e01209ce136a70d38a38e39ba59f2f31785f62f10",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Yd7qebwMIHAnNpKpUDdzw88p3U.png?scale-down-to=2048",
-      "path": "images/Yd7qebwMIHAnNpKpUDdzw88p3U.png"
+      "path": "images/Yd7qebwMIHAnNpKpUDdzw88p3U.webp",
+      "sha256": "b573af78feb00d447cc3e10649b992da4d2be931b2c92e2f130cba7d0485dc99",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/YbQDhkdXOT8xcuUYRK5KF7VwzU.png?scale-down-to=2048",
-      "path": "images/YbQDhkdXOT8xcuUYRK5KF7VwzU.png"
+      "path": "images/YbQDhkdXOT8xcuUYRK5KF7VwzU.webp",
+      "sha256": "9b8515635be2fc6165a076081ef38f37ca1ecd961d5760b7474704b59b8a7984",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/W8Gf5PSSZrfmrWQvEYmPnfuDML8.png?scale-down-to=2048",
-      "path": "images/W8Gf5PSSZrfmrWQvEYmPnfuDML8.png"
+      "path": "images/W8Gf5PSSZrfmrWQvEYmPnfuDML8.webp",
+      "sha256": "ead23181d1c83bf9965f136356bb041e78b59192ee77e48a7786c89f734a709c",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/VjQWHNWba6B7DyLd9DjESBH8dY.png?scale-down-to=2048",
-      "path": "images/VjQWHNWba6B7DyLd9DjESBH8dY.png"
+      "path": "images/VjQWHNWba6B7DyLd9DjESBH8dY.webp",
+      "sha256": "d5d8a69b402ea31471f99ab4e56006455e70eb9c0404121d9772cecb2c469dcb",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/3qQlxMINiaMiRnlfNh8OGmRf24g.png?scale-down-to=2048",
-      "path": "images/3qQlxMINiaMiRnlfNh8OGmRf24g.png"
+      "path": "images/3qQlxMINiaMiRnlfNh8OGmRf24g.webp",
+      "sha256": "4921f43dcdb6de590fa466c04d0d4c627f4378ecc578065937a3b2ce99fecfc3",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/4nXryur4dyN9hteeltynSKZXFk.png?scale-down-to=2048",
-      "path": "images/4nXryur4dyN9hteeltynSKZXFk.png"
+      "path": "images/4nXryur4dyN9hteeltynSKZXFk.webp",
+      "sha256": "44006ceaf56b520a84be43caefd155ce4ab795336f9cf38e0f995b16a259bd52",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/T70AC3GuS0Y7FlONq8td3EImf1Q.png?scale-down-to=2048",
-      "path": "images/T70AC3GuS0Y7FlONq8td3EImf1Q.png"
+      "path": "images/T70AC3GuS0Y7FlONq8td3EImf1Q.webp",
+      "sha256": "e621d2a6bdba2a5adcba76a42897738facba55075e606d1af171137c8507f11a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/aON5SoQDZ4AV3aBcRMZmPHCyI7I.png?scale-down-to=2048",
-      "path": "images/aON5SoQDZ4AV3aBcRMZmPHCyI7I.png"
+      "path": "images/aON5SoQDZ4AV3aBcRMZmPHCyI7I.webp",
+      "sha256": "2c86758eacdfb8d0d683367516803fd4921a2397469f1888aaad6ae776c0d432",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/d8lHvFI08OHv2PrH5sAMv0uxZ8.webp?scale-down-to=2048",
@@ -577,103 +1561,303 @@
     },
     {
       "source": "https://framerusercontent.com/images/XYlIjtidkqawWCc0yLQfCeBYuBE.png?scale-down-to=2048",
-      "path": "images/XYlIjtidkqawWCc0yLQfCeBYuBE.png"
+      "path": "images/XYlIjtidkqawWCc0yLQfCeBYuBE.webp",
+      "sha256": "d1fe3cd8bd0994429dec39f2d1a9ecfcb808c80b7bb7d34d687f72721805b39e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/P5c3gaYmJzpp2PEhrM4GZvn5Tyg.png?scale-down-to=2048",
-      "path": "images/P5c3gaYmJzpp2PEhrM4GZvn5Tyg.png"
+      "path": "images/P5c3gaYmJzpp2PEhrM4GZvn5Tyg.webp",
+      "sha256": "64c80a0e41798b10f1ac2ca6373adfffdbca3ea1d95e858a6de13a78381198e7",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/WxFLTiOhDeAmHhJQJXbGkVvM.png?scale-down-to=2048",
-      "path": "images/WxFLTiOhDeAmHhJQJXbGkVvM.png"
+      "path": "images/WxFLTiOhDeAmHhJQJXbGkVvM.webp",
+      "sha256": "6a582074c409fd062d60da8f5c5b8a08598bf3f02e4df6dd39fd8e4937fac546",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/2YUszBM4GPvk0SSWNZZwyaBlU.png?scale-down-to=2048",
-      "path": "images/2YUszBM4GPvk0SSWNZZwyaBlU.png"
+      "path": "images/2YUszBM4GPvk0SSWNZZwyaBlU.webp",
+      "sha256": "06dcfa47fa6f8807edfa8c51efb59596fabd783ce62ddc9c0c8b9fa6947308ce",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/g9IS65hX3MsPcihMrV1Oqpfs.png?scale-down-to=2048",
-      "path": "images/g9IS65hX3MsPcihMrV1Oqpfs.png"
+      "path": "images/g9IS65hX3MsPcihMrV1Oqpfs.webp",
+      "sha256": "4f2b0fd9446fbc7b6e372e07d1c63146dab18715478f6afe73a1eee9f2581ddb",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/qh9EZVcA8QO0guYz1AyJ7f0c.png?scale-down-to=2048",
-      "path": "images/qh9EZVcA8QO0guYz1AyJ7f0c.png"
+      "path": "images/qh9EZVcA8QO0guYz1AyJ7f0c.webp",
+      "sha256": "f4ab97ca75ada069ecfaaca0934d754f498f269e060d758e3d34fd9ef920150a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/wVbA5sxX5hcRH7ViMIFKQLBLUg.png?scale-down-to=2048",
-      "path": "images/wVbA5sxX5hcRH7ViMIFKQLBLUg.png"
+      "path": "images/wVbA5sxX5hcRH7ViMIFKQLBLUg.webp",
+      "sha256": "9af53f0d63f5358a112087dbb0e7c72713b056f3a2b3a00f7a0b1866acba427d",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/TECdMwS2Mjvk5XzmL7nUvADX5M.png?scale-down-to=2048",
-      "path": "images/TECdMwS2Mjvk5XzmL7nUvADX5M.png"
+      "path": "images/TECdMwS2Mjvk5XzmL7nUvADX5M.webp",
+      "sha256": "00f8914c3af231a6813c31168e1c328270ff457eaad473b49b12997581408951",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/jfYxAk7XGlOSRMdil4GJraiPMg.png?scale-down-to=2048",
-      "path": "images/jfYxAk7XGlOSRMdil4GJraiPMg.png"
+      "path": "images/jfYxAk7XGlOSRMdil4GJraiPMg.webp",
+      "sha256": "b2caed2e81adaf364fe2ff3ffda2e4e66888b6afaa11b5bb66085c2a0066fb59",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Cx1ybmSoInJcQCkT3oaIfovbHU.png?scale-down-to=2048",
-      "path": "images/Cx1ybmSoInJcQCkT3oaIfovbHU.png"
+      "path": "images/Cx1ybmSoInJcQCkT3oaIfovbHU.webp",
+      "sha256": "41d1d7700617e5ac2d51fdea9335e9bdddef46382fb1e78b4a6971b92cae0d66",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/p19Goxp3lScQsbs0ZWbeUhy543A.png?scale-down-to=2048",
-      "path": "images/p19Goxp3lScQsbs0ZWbeUhy543A.png"
+      "path": "images/p19Goxp3lScQsbs0ZWbeUhy543A.webp",
+      "sha256": "0ac6f7718e2ec0bdcad9ad8accbe5398e93772306b0a997116401a51cefc0cc6",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/5FMjQGTejyZhxD8N0tVsHi9hj0.png?scale-down-to=2048",
-      "path": "images/5FMjQGTejyZhxD8N0tVsHi9hj0.png"
+      "path": "images/5FMjQGTejyZhxD8N0tVsHi9hj0.webp",
+      "sha256": "fef23a6f01ef67b89dc3bb93491589129e0f6da86c67bad150de1be6375752b6",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/sudpNzYLBSdoeU9ToA8Sb7FhA.png?scale-down-to=2048",
-      "path": "images/sudpNzYLBSdoeU9ToA8Sb7FhA.png"
+      "path": "images/sudpNzYLBSdoeU9ToA8Sb7FhA.webp",
+      "sha256": "761548b6594ba571090a0cf218c06df906cbea6439df352577fc7b06e15dc385",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/KLuSEIhAKWL3DM37ZpM7BFb7g9k.png?scale-down-to=2048",
-      "path": "images/KLuSEIhAKWL3DM37ZpM7BFb7g9k.png"
+      "path": "images/KLuSEIhAKWL3DM37ZpM7BFb7g9k.webp",
+      "sha256": "982df742006ea373dbfad39e94af80044aad40fe5836be93a858f46bc2dc41d2",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/WMIcwmma7V6h14sKWTZIVd6a4jM.png?scale-down-to=2048",
-      "path": "images/WMIcwmma7V6h14sKWTZIVd6a4jM.png"
+      "path": "images/WMIcwmma7V6h14sKWTZIVd6a4jM.webp",
+      "sha256": "4fac2284d36d60d5a5de0f65378a50dc83801faff59fad224225869f02d1a298",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/LK9BZCMKqZmAs9FpgP09RjgYZo.png?scale-down-to=2048",
-      "path": "images/LK9BZCMKqZmAs9FpgP09RjgYZo.png"
+      "path": "images/LK9BZCMKqZmAs9FpgP09RjgYZo.webp",
+      "sha256": "14f32f4b21139322322754ad24613eace7b2b6d9f2165eac94cbd4da1a50d45b",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/k6fva5TsIdTEIcJGy6c0qX0Nyg.png?scale-down-to=2048",
-      "path": "images/k6fva5TsIdTEIcJGy6c0qX0Nyg.png"
+      "path": "images/k6fva5TsIdTEIcJGy6c0qX0Nyg.webp",
+      "sha256": "d22724b401541b8789275263e98dd479a6f97282789977a8b1de6d7f42e1f10a",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/e7ERSORCGZ7GXEvCq4PRUqCc.png?scale-down-to=2048",
-      "path": "images/e7ERSORCGZ7GXEvCq4PRUqCc.png"
+      "path": "images/e7ERSORCGZ7GXEvCq4PRUqCc.webp",
+      "sha256": "cf9b86165cd59aef67121731ba5467c8b429d60c9aa6d89519f149e28203b382",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/bhekDgOkzJ93cYKnvqbaZp5D6Rc.png?scale-down-to=2048",
-      "path": "images/bhekDgOkzJ93cYKnvqbaZp5D6Rc.png"
+      "path": "images/bhekDgOkzJ93cYKnvqbaZp5D6Rc.webp",
+      "sha256": "eee6ad66f7ab768084a99db0d04eea7cf8418bc72f02d2cdbd240b82c744472e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/7iyB0OdiNP0hutEM02tLhWfHnHo.png?scale-down-to=2048",
-      "path": "images/7iyB0OdiNP0hutEM02tLhWfHnHo.png"
+      "path": "images/7iyB0OdiNP0hutEM02tLhWfHnHo.webp",
+      "sha256": "1ecc640e618d6d453964dd20b3ae8d05d8f33b5353a92ea29f9a7215c17f8045",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/yYNmH5RcyaouDvEE3w7YYEyk844.png?scale-down-to=2048",
-      "path": "images/yYNmH5RcyaouDvEE3w7YYEyk844.png"
+      "path": "images/yYNmH5RcyaouDvEE3w7YYEyk844.webp",
+      "sha256": "7a27a3347b955f4514f420e7e4376e803f0729c8d274fa119738fcf1f92c89ca",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/1WIN2B96iqFGOdC6rsB8rLN5xdg.png?scale-down-to=2048",
-      "path": "images/1WIN2B96iqFGOdC6rsB8rLN5xdg.png"
+      "path": "images/1WIN2B96iqFGOdC6rsB8rLN5xdg.webp",
+      "sha256": "41e5f0551e2779eedbd9ac415c1ed9e6517a9cc432886c183b390eda7f4b112b",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/0BwyU4t1s1BzU7symTQeFQbvu8.png?scale-down-to=2048",
-      "path": "images/0BwyU4t1s1BzU7symTQeFQbvu8.png"
+      "path": "images/0BwyU4t1s1BzU7symTQeFQbvu8.webp",
+      "sha256": "63e3f6b42a6813b65118a55127e166bd61ff9236ea4041e8c7be058dc5b91a4f",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/AxpKyhmjEQpZM88XX5mjq4EXsh4.png?scale-down-to=2048",
-      "path": "images/AxpKyhmjEQpZM88XX5mjq4EXsh4.png"
+      "path": "images/AxpKyhmjEQpZM88XX5mjq4EXsh4.webp",
+      "sha256": "302dce8a17db4e884825522e0ad2f268cf77ca198fffdc1254f2f3a3a3272c18",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1200,
+        "height": 960,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/juys8O8sYMgpbMHXmd7sPmAzk.png?scale-down-to=2048",
-      "path": "images/juys8O8sYMgpbMHXmd7sPmAzk.png"
+      "path": "images/juys8O8sYMgpbMHXmd7sPmAzk.webp",
+      "sha256": "db6fef29ea29a6a3da45c0351a0eb6da4f91c7c1a249d7cf2982774d045c434e",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/lTzZUEDgrvgP9cojC7kKHfZMs.webp?scale-down-to=2048",
@@ -685,111 +1869,327 @@
     },
     {
       "source": "https://framerusercontent.com/images/lk6TStwuyOVBZ2rlvonURn260gQ.png?scale-down-to=2048",
-      "path": "images/lk6TStwuyOVBZ2rlvonURn260gQ.png"
+      "path": "images/lk6TStwuyOVBZ2rlvonURn260gQ.webp",
+      "sha256": "1f0c0ee61fab9a5bd47936403601b6058ac71b806525aa87d7eb0d00bf38b316",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/MTmkEIqAN8ioZWaHO4liF0I.png?scale-down-to=2048",
-      "path": "images/MTmkEIqAN8ioZWaHO4liF0I.png"
+      "path": "images/MTmkEIqAN8ioZWaHO4liF0I.webp",
+      "sha256": "4fa3fea714402947247db74fa5b09c6a0f0a0b16fff381c5f7fd28c8df6c2f47",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/jkpeXZbgf3M7zAB6gA7tsWhsxM.png?scale-down-to=2048",
-      "path": "images/jkpeXZbgf3M7zAB6gA7tsWhsxM.png"
+      "path": "images/jkpeXZbgf3M7zAB6gA7tsWhsxM.webp",
+      "sha256": "396077fe9299e622282ca7df54d45cc98e3eec91f73627cbe95e230f889e33e3",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/EhXTDSYvJel3XUJkvPBdqxj6bSg.png?scale-down-to=2048",
-      "path": "images/EhXTDSYvJel3XUJkvPBdqxj6bSg.png"
+      "path": "images/EhXTDSYvJel3XUJkvPBdqxj6bSg.webp",
+      "sha256": "26cc800ff9101dc47875f9382226476ad45f68e89dd90734a169bf0ac92fafe6",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/dlVxnumL5jQIE82GQ6grT9H2fQ.png?scale-down-to=2048",
-      "path": "images/dlVxnumL5jQIE82GQ6grT9H2fQ.png"
+      "path": "images/dlVxnumL5jQIE82GQ6grT9H2fQ.webp",
+      "sha256": "e6526a82e88a13e7e00906cf80aaa1f9c55bb050ddf124563ec616be43895770",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/CgWDmQ0pU5hfUc4b8VgSTu8N00s.png?scale-down-to=2048",
-      "path": "images/CgWDmQ0pU5hfUc4b8VgSTu8N00s.png"
+      "path": "images/CgWDmQ0pU5hfUc4b8VgSTu8N00s.webp",
+      "sha256": "df856dd17441d32377ee96d0e100bfccd633719e8147657f8fba72bc113ddf03",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/MrMYdgA5EAOj3QsdHrOF4mNJyL8.png?scale-down-to=2048",
-      "path": "images/MrMYdgA5EAOj3QsdHrOF4mNJyL8.png"
+      "path": "images/MrMYdgA5EAOj3QsdHrOF4mNJyL8.webp",
+      "sha256": "872057f58812aa3bc48101ef219f10c6457588cf26cd7c2221426e7fa213b899",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/mIQHHLwGNI27EAEhMOtqGdZEVrw.png?scale-down-to=2048",
-      "path": "images/mIQHHLwGNI27EAEhMOtqGdZEVrw.png"
+      "path": "images/mIQHHLwGNI27EAEhMOtqGdZEVrw.webp",
+      "sha256": "7be16f84621f87dbd036d0da252bd044b26d107588d8e002a9e48643c846eefc",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/TR9tiGZesxuiXskUae6iDDNmDw.png?scale-down-to=2048",
-      "path": "images/TR9tiGZesxuiXskUae6iDDNmDw.png"
+      "path": "images/TR9tiGZesxuiXskUae6iDDNmDw.webp",
+      "sha256": "eecf647581274976ae2949557de88d886c504c65d159d4013684f3db8fc89155",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/nwe1V6G6kr1NhGCWTWmO421B14.png?scale-down-to=2048",
-      "path": "images/nwe1V6G6kr1NhGCWTWmO421B14.png"
+      "path": "images/nwe1V6G6kr1NhGCWTWmO421B14.webp",
+      "sha256": "974e8e2bdeab52491e466abb71983a471192447872a18149bfb8a2a640c0cbbf",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/65LRQnWVdhDZG697KgO5gIlmqnM.png?scale-down-to=2048",
-      "path": "images/65LRQnWVdhDZG697KgO5gIlmqnM.png"
+      "path": "images/65LRQnWVdhDZG697KgO5gIlmqnM.webp",
+      "sha256": "566ef3a3097283ef771e18cbfa0cfd89d305e521881f3f796912a5636a8b2cc3",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Y3gKiBn1N2hC9hXxZ0dIFaj3xo.png?scale-down-to=2048",
-      "path": "images/Y3gKiBn1N2hC9hXxZ0dIFaj3xo.png"
+      "path": "images/Y3gKiBn1N2hC9hXxZ0dIFaj3xo.webp",
+      "sha256": "fb6f3e0a4f83eb0db1a18817cfa3c799cdbce789ee4dfe500e9a89dac2938014",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/hqTm5Wcb6gKvqD2mGEMOYDE5I.png?scale-down-to=2048",
-      "path": "images/hqTm5Wcb6gKvqD2mGEMOYDE5I.png"
+      "path": "images/hqTm5Wcb6gKvqD2mGEMOYDE5I.webp",
+      "sha256": "c086fcea16a6f8ee4a0bbf4c62d78ed85096e373dc5a93395fe4d5bb249c01f2",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/YumKIDYu6AtGlzXGmUrW8C0SemI.png?scale-down-to=2048",
-      "path": "images/YumKIDYu6AtGlzXGmUrW8C0SemI.png"
+      "path": "images/YumKIDYu6AtGlzXGmUrW8C0SemI.webp",
+      "sha256": "489c87e46b1bbd45fb5bab78dcf7ddfaf0877ae8e56d8e76c1e5ce336a41da0f",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/vSF51dWIyzrBXMCDXoiVxkYi40.png?scale-down-to=2048",
-      "path": "images/vSF51dWIyzrBXMCDXoiVxkYi40.png"
+      "path": "images/vSF51dWIyzrBXMCDXoiVxkYi40.webp",
+      "sha256": "7a9512f0e06406088595bc04c9b701951cd8ea054cab17914c5b06b54f6d04cc",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Q0UnkrJy9NymMgLalJUlIzl2Ww.png?scale-down-to=2048",
-      "path": "images/Q0UnkrJy9NymMgLalJUlIzl2Ww.png"
+      "path": "images/Q0UnkrJy9NymMgLalJUlIzl2Ww.webp",
+      "sha256": "ce3364aca3fcfa7ec7362be7e3bfd70989a13d7679b52a51c37639fcb0f9f155",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/sdbGe9Gh5lpo3JX92V50hbF0RE.png?scale-down-to=2048",
-      "path": "images/sdbGe9Gh5lpo3JX92V50hbF0RE.png"
+      "path": "images/sdbGe9Gh5lpo3JX92V50hbF0RE.webp",
+      "sha256": "bc5ac15707c5706c754b6fbfb7f4c726649342ddfd9652001b95bc3429844922",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/T0rfAxgOfy26tLYOCe8IaawAI.png?scale-down-to=2048",
-      "path": "images/T0rfAxgOfy26tLYOCe8IaawAI.png"
+      "path": "images/T0rfAxgOfy26tLYOCe8IaawAI.webp",
+      "sha256": "ed80b52641a37d443548a55f37c8c2467d07884766eb0b23ed66a09496c222ad",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/QPWgdnRd19Ridzklui18Mscvo4.png?scale-down-to=2048",
-      "path": "images/QPWgdnRd19Ridzklui18Mscvo4.png"
+      "path": "images/QPWgdnRd19Ridzklui18Mscvo4.webp",
+      "sha256": "2ad545d6ce36440c7352fc0ecd09bb3f8ab70759221c91ead17a72d782cb0d7b",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/5HnclaUklKjJHL4k0ogEoUmae2k.png?scale-down-to=2048",
-      "path": "images/5HnclaUklKjJHL4k0ogEoUmae2k.png"
+      "path": "images/5HnclaUklKjJHL4k0ogEoUmae2k.webp",
+      "sha256": "f5ae91b9833786e26e7cf6cb70461966cfba7961d0452d22effb5cc9eda41ad6",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/3NiZvhlt2a3ld6syapCKpz5AIZg.png?scale-down-to=2048",
-      "path": "images/3NiZvhlt2a3ld6syapCKpz5AIZg.png"
+      "path": "images/3NiZvhlt2a3ld6syapCKpz5AIZg.webp",
+      "sha256": "7103d4fefe753650394608815bc17be1357fb2f277c70fa1a94c04dc57c86612",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/nBuY5OlOizJ8fLUmhzuWmYVzg.png?scale-down-to=2048",
-      "path": "images/nBuY5OlOizJ8fLUmhzuWmYVzg.png"
+      "path": "images/nBuY5OlOizJ8fLUmhzuWmYVzg.webp",
+      "sha256": "2756dd44f6993db551632f4b842439b6461fd8e44d18dc01ba43afa7e7af38b8",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/nckyVwjwomitzdEvuGi7XzKOzI.png?scale-down-to=2048",
-      "path": "images/nckyVwjwomitzdEvuGi7XzKOzI.png"
+      "path": "images/nckyVwjwomitzdEvuGi7XzKOzI.webp",
+      "sha256": "2d6d7936f0f2eb3377f76e2f602806408dce62752e82deef41adb6c108b2957c",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/tGcJPgXIiBl3cUfrJfMHLWCuWk.png?scale-down-to=2048",
-      "path": "images/tGcJPgXIiBl3cUfrJfMHLWCuWk.png"
+      "path": "images/tGcJPgXIiBl3cUfrJfMHLWCuWk.webp",
+      "sha256": "9efdd6619e4b4b66fb4946c1a4cc962b5399e38b65a86c9e01972fc18c36be54",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/hlKsEf0MZZ1SdMjb3L88mUJt7Q.png?scale-down-to=2048",
-      "path": "images/hlKsEf0MZZ1SdMjb3L88mUJt7Q.png"
+      "path": "images/hlKsEf0MZZ1SdMjb3L88mUJt7Q.webp",
+      "sha256": "8523bcdfb0affc858b92ab2e505e2c0d56d7e698cad15bc89066b641bc489f01",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/RzQWek25uGYyra15XCYmMeew.png?scale-down-to=2048",
-      "path": "images/RzQWek25uGYyra15XCYmMeew.png"
+      "path": "images/RzQWek25uGYyra15XCYmMeew.webp",
+      "sha256": "f2cab22d3bdc0d07bcd8141482dabd3e6cd7f81c6427234e01c048479a5519eb",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/ySeWNRkqMAOvxy8d6rbLAoapBE.png?scale-down-to=2048",
-      "path": "images/ySeWNRkqMAOvxy8d6rbLAoapBE.png"
+      "path": "images/ySeWNRkqMAOvxy8d6rbLAoapBE.webp",
+      "sha256": "89b24bf8548b67efe482e6ad3e6ffef3a26f1b20e10db39793c9cfb8dc1425ce",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/4fxpbhm8ADPLyuQRoIh5io88DcY.webp?scale-down-to=2048",
@@ -817,7 +2217,15 @@
     },
     {
       "source": "https://framerusercontent.com/images/gJucbjtqLOKefw8bl755oPVgM.png?scale-down-to=2048",
-      "path": "images/gJucbjtqLOKefw8bl755oPVgM.png"
+      "path": "images/gJucbjtqLOKefw8bl755oPVgM.webp",
+      "sha256": "df6e2038696f321877166ca163e9a0eaedd5354c99af996fd8f4e9ab654507e0",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 1402,
+        "height": 1122,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/ECCVvU0jIEyrbq7MMKp85xytQ4M.webp?scale-down-to=2048",
@@ -829,15 +2237,39 @@
     },
     {
       "source": "https://framerusercontent.com/images/qzKwUOttmVaPzTj6gJGTz2A.png?scale-down-to=2048",
-      "path": "images/qzKwUOttmVaPzTj6gJGTz2A.png"
+      "path": "images/qzKwUOttmVaPzTj6gJGTz2A.webp",
+      "sha256": "fa4cbadc27b153a5840d07321878554e6616d3e94984380ebde37972f6aff57c",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/O1ZYTMgld7whYr9RmZkGtPpjLgI.png?scale-down-to=2048",
-      "path": "images/O1ZYTMgld7whYr9RmZkGtPpjLgI.png"
+      "path": "images/O1ZYTMgld7whYr9RmZkGtPpjLgI.webp",
+      "sha256": "3a90ae11b47c826ab4f367a2ae4944367f535b48f6efc247b03b43f8d72edee2",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1636,
+        "alphaMatches": true
+      }
     },
     {
       "source": "https://framerusercontent.com/images/Ti1iLvHkUofiTR6LevqFXBo.png?scale-down-to=2048",
-      "path": "images/Ti1iLvHkUofiTR6LevqFXBo.png"
+      "path": "images/Ti1iLvHkUofiTR6LevqFXBo.webp",
+      "sha256": "72b83ec4b9f9b774cccfa9cc3df7233448837089ddc8898cbf46537ca1cb7f2c",
+      "encoding": {
+        "mode": "webp-q88",
+        "quality": 88,
+        "width": 2048,
+        "height": 1146,
+        "alphaMatches": true
+      }
     }
   ],
   "fonts": "MiSans and Poppins; see included font licences"

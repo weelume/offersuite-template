@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-10-24T11:07:28.162Z",
-  "sourceCommit": "5aaa7afc0bb63aac2f76fc46d27f7ea53e1ff73c",
-  "sourceDigest": "0764dfab4f5c5a07a84796f4305e75a35fe582fabfa09ac648615fc621ab53af",
+  "checkedAt": "2026-10-24T11:35:34.451Z",
+  "sourceCommit": "cb59b6acbd9729c7660c50f81aaf3f11d6b58aca",
+  "sourceDigest": "49f33ac6510be939c11e614dc82dd19a3ae408d6e38d4806579d717f150f89d8",
   "environment": {
     "platform": "linux (local WSL Ubuntu)",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-24T11:02:54.339Z",
-      "finishedAt": "2026-10-24T11:02:57.410Z"
+      "startedAt": "2026-10-24T11:31:47.459Z",
+      "finishedAt": "2026-10-24T11:31:50.827Z"
     },
     {
       "id": "lint",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-24T11:02:57.411Z",
-      "finishedAt": "2026-10-24T11:03:00.981Z"
+      "startedAt": "2026-10-24T11:31:50.830Z",
+      "finishedAt": "2026-10-24T11:31:54.663Z"
     },
     {
       "id": "test",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-24T11:03:00.983Z",
-      "finishedAt": "2026-10-24T11:03:01.808Z"
+      "startedAt": "2026-10-24T11:31:54.665Z",
+      "finishedAt": "2026-10-24T11:31:55.497Z"
     },
     {
       "id": "build",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-24T11:03:01.810Z",
-      "finishedAt": "2026-10-24T11:03:28.386Z"
+      "startedAt": "2026-10-24T11:31:55.500Z",
+      "finishedAt": "2026-10-24T11:32:14.403Z"
     }
   ],
   "services": [
@@ -73,10 +73,11 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-10-24T11:07:28.162Z"
+      "checkedAt": "2026-10-24T11:35:34.451Z"
     }
   ],
   "limitations": [
+    "运行图片完成 WebP 编码、尺寸与透明通道检查；照片质量 88，新编码素材尚未通过浏览器逐项复核。",
     "原站逐页、逐端的全部动效节奏与轨迹尚未逐项完成比对；不能宣称完整动效复刻验收。",
     "浏览器首次完成 168 组双语四档布局检查；体验页调整后完成 48 组即时回归，其中一组初始加载时暂报溢出。稳定态复核前 20 组全部通过，后续导航被浏览器安全策略中止，未绕过。",
     "12 张真实展示图按 1440×1000、834×1180、390×844 生成；后续页脚调整及联系页标题语义调整尚未重新截图。",

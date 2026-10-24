@@ -4,8 +4,8 @@ export type Bilingual = { zh: string; en: string }
 export type Experience = typeof experiences[number]
 export type Article = typeof articles[number]
 export const homeLayers = ['4fxpbhm8ADPLyuQRoIh5io88DcY.webp', 'nTQyOBHDlAyBH3BaZmWl6kDbSIs.webp', '2p3E7DCXpzMSCoJf19dfvon4tY.webp'].map(name => '/templates/offersuite/images/' + name)
-export const homeCards = ["/templates/offersuite/images/sSfuLKvqt3FqWFmDrFRBDifQIS0.webp","/templates/offersuite/images/FaD2E5Fn2V6nNc9ocGPopCVANUI.webp","/templates/offersuite/images/733gU4MVRiEDRDYcw0MmL3lnMfE.webp","/templates/offersuite/images/gJucbjtqLOKefw8bl755oPVgM.png","/templates/offersuite/images/ECCVvU0jIEyrbq7MMKp85xytQ4M.webp","/templates/offersuite/images/vZdgzpkU478bl4UpezEOcyApKC4.webp"]
-export const press = ['5nwlyAHB2oiFLUcN2uVJOxEpsyo.png','EItxkYcFDdncSjk8I8IMXDOphWI.png','ucjzrLvIcq5wyZEYPxnsQ341g.png','JITa01Qg1afOsx9x1a23MDys6Eg.png','I4PyZYlOJWTAhTOnDHotWXpiVwY.png','omwSuXuoSOegnTLGjt2wDhMtkY.png'].map(name=>'/templates/offersuite/images/'+name)
+export const homeCards = ["/templates/offersuite/images/sSfuLKvqt3FqWFmDrFRBDifQIS0.webp","/templates/offersuite/images/FaD2E5Fn2V6nNc9ocGPopCVANUI.webp","/templates/offersuite/images/733gU4MVRiEDRDYcw0MmL3lnMfE.webp","/templates/offersuite/images/gJucbjtqLOKefw8bl755oPVgM.webp","/templates/offersuite/images/ECCVvU0jIEyrbq7MMKp85xytQ4M.webp","/templates/offersuite/images/vZdgzpkU478bl4UpezEOcyApKC4.webp"]
+export const press = ['5nwlyAHB2oiFLUcN2uVJOxEpsyo.webp','EItxkYcFDdncSjk8I8IMXDOphWI.webp','ucjzrLvIcq5wyZEYPxnsQ341g.webp','JITa01Qg1afOsx9x1a23MDys6Eg.webp','I4PyZYlOJWTAhTOnDHotWXpiVwY.webp','omwSuXuoSOegnTLGjt2wDhMtkY.webp'].map(name=>'/templates/offersuite/images/'+name)
 export const faqs = [
   [{zh:'这些体验适合谁？',en:'Who is OfferSuite for?'},{zh:'适合愿意投入时间、亲手练习的厨师、餐饮经营者与认真对待料理的爱好者。每项体验有不同的学习重点。',en:'For chefs, food-business owners and committed home cooks who want to learn through practice. Each table has its own focus.'}],
   [{zh:'每次有多少人参加？',en:'How many people join each experience?'},{zh:'每桌最多八人，让每个人都能得到直接指导，也让交流保有深度。',en:'Each table is limited to eight people, allowing personal guidance and meaningful exchange.'}],
