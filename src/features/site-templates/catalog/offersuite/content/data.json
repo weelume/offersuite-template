@@ -186,7 +186,51 @@
         "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
         "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
         "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
-      ]
+      ],
+      "visuals": {
+        "intro": [
+          "/templates/offersuite/images/6mnOuCwPcdbLnFAfsLsa2GHVeg.png",
+          "/templates/offersuite/images/Bl9kf0QNVvOnEekDiPn4PpkvvdY.png",
+          "/templates/offersuite/images/1C6I6YUXjE32EJIDgHhuyAelHw.png",
+          "/templates/offersuite/images/O7HB2JIptq16rxhYmLeuriYp8.png"
+        ],
+        "steps": [
+          "/templates/offersuite/images/iTWR1DfDWiPTKHvcF1DjVNtOvE8.png",
+          "/templates/offersuite/images/QoMKoNH5iDZPfKklI3JYOlHxVto.png",
+          "/templates/offersuite/images/TZrHbcxA1c3kHyvJnGdDYwnw.png",
+          "/templates/offersuite/images/Wvn8Gq5LaFtOdVZHzJmJag6kR8.png",
+          "/templates/offersuite/images/hraePGGOU9DksDzWMQOVSa5KPE.png"
+        ],
+        "gallery": [
+          "/templates/offersuite/images/lhZLZ60ttRh25vUEfeJXEeT7jGk.png",
+          "/templates/offersuite/images/1QQFJa1JStzQu0Bg8sWlBJwJU.png",
+          "/templates/offersuite/images/k25uP1x9P3Ed678qrygC38Eq8xY.png",
+          "/templates/offersuite/images/dTo0rog61AxcgbDNRUSXDzUrDo.png",
+          "/templates/offersuite/images/tPKF4x49dykXkQzpq2HTQGFY188.png",
+          "/templates/offersuite/images/AMLLiZuduma63h4dYoaSWOodzRw.png",
+          "/templates/offersuite/images/fmAqcWFimqW3cjTSyzs4sweSRg.png",
+          "/templates/offersuite/images/8qSt6bWx4Qs68myyT6TZAH728mA.png",
+          "/templates/offersuite/images/XzV0TtG5S3tAFbQvyh0oF3JlSg.png",
+          "/templates/offersuite/images/7zw7214mHjHv0IGKrnMphXu6Ko.png"
+        ],
+        "included": [
+          "/templates/offersuite/images/LOtAY1Amx3SWjzqIroXulebPk8Y.png",
+          "/templates/offersuite/images/NDUI7Yc58fyAf4fxiThXAOp1v0.png",
+          "/templates/offersuite/images/qdMV2j7dvTQz5mzZiwFIg0dJeI.png",
+          "/templates/offersuite/images/dSANlHDkcwbfkphb2h6OKGpVnW4.png"
+        ],
+        "location": [
+          "/templates/offersuite/images/hHbn1dBxGWmwFwNe2ANneXJlCiE.png",
+          "/templates/offersuite/images/Dflwduh4Ba3A3iZWZAZ1KAg0zqU.png",
+          "/templates/offersuite/images/wV4eIx47pqequ2kbiRnBEMiHvA.png"
+        ],
+        "testimonials": [
+          "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+          "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+          "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+          "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+        ]
+      }
     },
     {
       "id": "venice",
@@ -384,7 +428,52 @@
         "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
         "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
         "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
-      ]
+      ],
+      "visuals": {
+        "intro": [
+          "/templates/offersuite/images/lk6TStwuyOVBZ2rlvonURn260gQ.png",
+          "/templates/offersuite/images/MTmkEIqAN8ioZWaHO4liF0I.png",
+          "/templates/offersuite/images/jkpeXZbgf3M7zAB6gA7tsWhsxM.png",
+          "/templates/offersuite/images/EhXTDSYvJel3XUJkvPBdqxj6bSg.png"
+        ],
+        "steps": [
+          "/templates/offersuite/images/dlVxnumL5jQIE82GQ6grT9H2fQ.png",
+          "/templates/offersuite/images/CgWDmQ0pU5hfUc4b8VgSTu8N00s.png",
+          "/templates/offersuite/images/MrMYdgA5EAOj3QsdHrOF4mNJyL8.png",
+          "/templates/offersuite/images/mIQHHLwGNI27EAEhMOtqGdZEVrw.png",
+          "/templates/offersuite/images/TR9tiGZesxuiXskUae6iDDNmDw.png"
+        ],
+        "gallery": [
+          "/templates/offersuite/images/nwe1V6G6kr1NhGCWTWmO421B14.png",
+          "/templates/offersuite/images/65LRQnWVdhDZG697KgO5gIlmqnM.png",
+          "/templates/offersuite/images/Y3gKiBn1N2hC9hXxZ0dIFaj3xo.png",
+          "/templates/offersuite/images/hqTm5Wcb6gKvqD2mGEMOYDE5I.png",
+          "/templates/offersuite/images/YumKIDYu6AtGlzXGmUrW8C0SemI.png",
+          "/templates/offersuite/images/vSF51dWIyzrBXMCDXoiVxkYi40.png",
+          "/templates/offersuite/images/Q0UnkrJy9NymMgLalJUlIzl2Ww.png",
+          "/templates/offersuite/images/sdbGe9Gh5lpo3JX92V50hbF0RE.png",
+          "/templates/offersuite/images/T0rfAxgOfy26tLYOCe8IaawAI.png",
+          "/templates/offersuite/images/QPWgdnRd19Ridzklui18Mscvo4.png"
+        ],
+        "included": [
+          "/templates/offersuite/images/5HnclaUklKjJHL4k0ogEoUmae2k.png",
+          "/templates/offersuite/images/3NiZvhlt2a3ld6syapCKpz5AIZg.png",
+          "/templates/offersuite/images/nBuY5OlOizJ8fLUmhzuWmYVzg.png",
+          "/templates/offersuite/images/nckyVwjwomitzdEvuGi7XzKOzI.png",
+          "/templates/offersuite/images/tGcJPgXIiBl3cUfrJfMHLWCuWk.png"
+        ],
+        "location": [
+          "/templates/offersuite/images/hlKsEf0MZZ1SdMjb3L88mUJt7Q.png",
+          "/templates/offersuite/images/RzQWek25uGYyra15XCYmMeew.png",
+          "/templates/offersuite/images/ySeWNRkqMAOvxy8d6rbLAoapBE.png"
+        ],
+        "testimonials": [
+          "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+          "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+          "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+          "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+        ]
+      }
     },
     {
       "id": "tuscany",
@@ -572,7 +661,51 @@
         "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
         "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
         "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
-      ]
+      ],
+      "visuals": {
+        "intro": [
+          "/templates/offersuite/images/XYlIjtidkqawWCc0yLQfCeBYuBE.png",
+          "/templates/offersuite/images/P5c3gaYmJzpp2PEhrM4GZvn5Tyg.png",
+          "/templates/offersuite/images/WxFLTiOhDeAmHhJQJXbGkVvM.png",
+          "/templates/offersuite/images/2YUszBM4GPvk0SSWNZZwyaBlU.png"
+        ],
+        "steps": [
+          "/templates/offersuite/images/g9IS65hX3MsPcihMrV1Oqpfs.png",
+          "/templates/offersuite/images/qh9EZVcA8QO0guYz1AyJ7f0c.png",
+          "/templates/offersuite/images/wVbA5sxX5hcRH7ViMIFKQLBLUg.png",
+          "/templates/offersuite/images/TECdMwS2Mjvk5XzmL7nUvADX5M.png",
+          "/templates/offersuite/images/jfYxAk7XGlOSRMdil4GJraiPMg.png"
+        ],
+        "gallery": [
+          "/templates/offersuite/images/Cx1ybmSoInJcQCkT3oaIfovbHU.png",
+          "/templates/offersuite/images/p19Goxp3lScQsbs0ZWbeUhy543A.png",
+          "/templates/offersuite/images/5FMjQGTejyZhxD8N0tVsHi9hj0.png",
+          "/templates/offersuite/images/I4jHp602lgnlvrenIJ0se44UM0g.png",
+          "/templates/offersuite/images/sudpNzYLBSdoeU9ToA8Sb7FhA.png",
+          "/templates/offersuite/images/KLuSEIhAKWL3DM37ZpM7BFb7g9k.png",
+          "/templates/offersuite/images/WMIcwmma7V6h14sKWTZIVd6a4jM.png",
+          "/templates/offersuite/images/LK9BZCMKqZmAs9FpgP09RjgYZo.png",
+          "/templates/offersuite/images/k6fva5TsIdTEIcJGy6c0qX0Nyg.png",
+          "/templates/offersuite/images/e7ERSORCGZ7GXEvCq4PRUqCc.png"
+        ],
+        "included": [
+          "/templates/offersuite/images/bhekDgOkzJ93cYKnvqbaZp5D6Rc.png",
+          "/templates/offersuite/images/7iyB0OdiNP0hutEM02tLhWfHnHo.png",
+          "/templates/offersuite/images/yYNmH5RcyaouDvEE3w7YYEyk844.png",
+          "/templates/offersuite/images/1WIN2B96iqFGOdC6rsB8rLN5xdg.png"
+        ],
+        "location": [
+          "/templates/offersuite/images/0BwyU4t1s1BzU7symTQeFQbvu8.png",
+          "/templates/offersuite/images/AxpKyhmjEQpZM88XX5mjq4EXsh4.png",
+          "/templates/offersuite/images/juys8O8sYMgpbMHXmd7sPmAzk.png"
+        ],
+        "testimonials": [
+          "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+          "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+          "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+          "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+        ]
+      }
     },
     {
       "id": "naples",
@@ -760,7 +893,51 @@
         "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
         "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
         "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
-      ]
+      ],
+      "visuals": {
+        "intro": [
+          "/templates/offersuite/images/OdbVheQaBouZTjH3BthdEca904.png",
+          "/templates/offersuite/images/ZsWIizSq6CuuxEDEkBLE72uZijc.png",
+          "/templates/offersuite/images/Kg9a9apwEQ3WaKk4oLsnUMvM.png",
+          "/templates/offersuite/images/lGNSbuoNug54zxh0jLpJKjXipfo.png"
+        ],
+        "steps": [
+          "/templates/offersuite/images/1vNhEJBq6hyLGLVrDrrotimK8Q0.png",
+          "/templates/offersuite/images/JuLYqavZWHB6D0TMelaVADM7Xg.png",
+          "/templates/offersuite/images/vt5qROFMqR2igJfIiDp0LYAKDo.png",
+          "/templates/offersuite/images/8D7NBpVKmMmHKrzt4D0KKN856v8.png",
+          "/templates/offersuite/images/eNnaVhEtOARvwJEogwZvBu64O8.png"
+        ],
+        "gallery": [
+          "/templates/offersuite/images/oEu0R8ZZDElxpnSkuXKxFkOKQGA.png",
+          "/templates/offersuite/images/OVyESJzYkAVyYr5TynG7KSR3dbg.png",
+          "/templates/offersuite/images/ogu3xNNNZMJ8uWlVQLNdDZed34.png",
+          "/templates/offersuite/images/SVkWLlyH4o2b6eCH6MOGSkCg5VI.png",
+          "/templates/offersuite/images/s8nH2roHnZxS2dJSjHqBWfitVI.png",
+          "/templates/offersuite/images/QrWRv4viLbPi9ID4UapszkCeEQ4.png",
+          "/templates/offersuite/images/QJZ2Yke1hxciUr4mE5UzhpXEfJc.png",
+          "/templates/offersuite/images/Edul4IZ1JZO7SL91PXn8JWN4nE.png",
+          "/templates/offersuite/images/fm1xPZW0EeBebmOFf536XZvc.png",
+          "/templates/offersuite/images/VPwBpt7pPzchHsE9lPpbzGJmshc.png"
+        ],
+        "included": [
+          "/templates/offersuite/images/EJOuDDNye7WdBBL9IQnVDYU8OcU.png",
+          "/templates/offersuite/images/DLHYwg97B2gvHKJoC4sZdrdUiQ0.png",
+          "/templates/offersuite/images/kcKzJWwe99OE2ME6NlSrLl4VU.png",
+          "/templates/offersuite/images/7WaxslpUxj9wGKmznBiAbdzkA4Y.png"
+        ],
+        "location": [
+          "/templates/offersuite/images/o2MGUsyFGUfArEYLLclGfOnVVPg.png",
+          "/templates/offersuite/images/KcfadPw1XRGnPiAVNkI3IBB7ZI4.png",
+          "/templates/offersuite/images/dJKMI0OsoKLdBR2nVFvD1MePloA.png"
+        ],
+        "testimonials": [
+          "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+          "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+          "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+          "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+        ]
+      }
     },
     {
       "id": "rome",
@@ -959,7 +1136,52 @@
         "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
         "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
         "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
-      ]
+      ],
+      "visuals": {
+        "intro": [
+          "/templates/offersuite/images/ashyR95sQaBhU4lzncmNbhqmYQ.png",
+          "/templates/offersuite/images/LlzvVg49w1Nl1bmCnDzoqmQ.png",
+          "/templates/offersuite/images/7zYOw0RIAKMcesQ99BG4fEFSO0.png",
+          "/templates/offersuite/images/OnQdczuCPzGu0rr2IiMfznptHn8.png"
+        ],
+        "steps": [
+          "/templates/offersuite/images/lip248EcfxGKv28kVj9YmuoUYL4.png",
+          "/templates/offersuite/images/av92Lfue4o63HjnBuGF3QYuz9j8.png",
+          "/templates/offersuite/images/tvilaYRIyluSrwE8W1iGotSM8.png",
+          "/templates/offersuite/images/vWo50WLttgfcNE66GhbadCInc.png",
+          "/templates/offersuite/images/cQWrUInn4suYuImsrEnMrPEOfGU.png"
+        ],
+        "gallery": [
+          "/templates/offersuite/images/zWumX8aIx7F3Hh5b6FzkkvBow.png",
+          "/templates/offersuite/images/76hW2uiXaiSUJRWzus2GJvji5g.png",
+          "/templates/offersuite/images/kjO41rJYVTk5iVNGF7g1gqxsGUI.png",
+          "/templates/offersuite/images/tgkLr5wYyeqnWHSkYz4Zuo8viYg.png",
+          "/templates/offersuite/images/QZHbfrSrpN1Sz8DOjygHuazbs.png",
+          "/templates/offersuite/images/0b9CUCVnO3zIcKrzNfKRvfW1z0.png",
+          "/templates/offersuite/images/3wKEvuitD8MOG3lKT0ek4Bcsvhw.png",
+          "/templates/offersuite/images/MDOTAoF8g4ux2G7SAAQH3uP1yx8.png",
+          "/templates/offersuite/images/Kzj7ZZkWGp0e2dY0jQCo43P6e3w.png",
+          "/templates/offersuite/images/jaMloZMk4HsPCVFmXMrAKC2Foc.png"
+        ],
+        "included": [
+          "/templates/offersuite/images/Yd7qebwMIHAnNpKpUDdzw88p3U.png",
+          "/templates/offersuite/images/YbQDhkdXOT8xcuUYRK5KF7VwzU.png",
+          "/templates/offersuite/images/W8Gf5PSSZrfmrWQvEYmPnfuDML8.png",
+          "/templates/offersuite/images/VjQWHNWba6B7DyLd9DjESBH8dY.png",
+          "/templates/offersuite/images/3qQlxMINiaMiRnlfNh8OGmRf24g.png"
+        ],
+        "location": [
+          "/templates/offersuite/images/4nXryur4dyN9hteeltynSKZXFk.png",
+          "/templates/offersuite/images/T70AC3GuS0Y7FlONq8td3EImf1Q.png",
+          "/templates/offersuite/images/aON5SoQDZ4AV3aBcRMZmPHCyI7I.png"
+        ],
+        "testimonials": [
+          "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+          "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+          "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+          "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+        ]
+      }
     },
     {
       "id": "dolomites",
@@ -1146,7 +1368,51 @@
         "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
         "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
         "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
-      ]
+      ],
+      "visuals": {
+        "intro": [
+          "/templates/offersuite/images/cWUmOrFnd4iihOLrRk4oFbvb7Y.png",
+          "/templates/offersuite/images/Pg6BmHadTu7dF9uw4myUwUuwsE.png",
+          "/templates/offersuite/images/SskjD5CnYG9WlCqSjmPxPQXXU.png",
+          "/templates/offersuite/images/5NIh5GRNRJkrlaYz8rzlBPtNtw.png"
+        ],
+        "steps": [
+          "/templates/offersuite/images/i8ij4Pr90Y3HLMduLEGZJ4vEdg.png",
+          "/templates/offersuite/images/X9ylSBtxVhbvkzAW5BTZbUfywY.png",
+          "/templates/offersuite/images/jlD5MTWhuh1fPRwXpQxzUrNZI.png",
+          "/templates/offersuite/images/HprW50iIucVn4QGzPvLxN9Sk9Es.png",
+          "/templates/offersuite/images/2TYkTV5DfVjx7jdSYRDgL9pRBC0.png"
+        ],
+        "gallery": [
+          "/templates/offersuite/images/Sv3ZnGHpzXsQ9PLnqDXTCVYdU.png",
+          "/templates/offersuite/images/LWz4wIbNzpKqtUTPmE7iu4KylGQ.png",
+          "/templates/offersuite/images/RHgu2vFEI7SCPCDMj2tzaNiIsMA.png",
+          "/templates/offersuite/images/uRxWHdRjuMVxB1A0PVquqNHxmO0.png",
+          "/templates/offersuite/images/gaypEMMcMHNg8jxitKHdwZ8spA4.png",
+          "/templates/offersuite/images/Z34ZXjvhaqtL5bE7irlsMh5IJU.png",
+          "/templates/offersuite/images/XTxdQnjdDzQBiYhSyU0NETBMZY.png",
+          "/templates/offersuite/images/Tjy1sLJC6aHU1oPAy0W7aGXElI.png",
+          "/templates/offersuite/images/FUhrbPmUZ4yOgGNigwmQM1uLPE.png",
+          "/templates/offersuite/images/sZWN0Y3SoiTLRx8mNchru3q2qg.png"
+        ],
+        "included": [
+          "/templates/offersuite/images/ytnz5NMdfcZv72vHwlCwFJKFM.png",
+          "/templates/offersuite/images/81xfcRDstkvRnlsgOroP59MhI.png",
+          "/templates/offersuite/images/GrbxDwS6hZVJjJYcnyXWM1vTIa0.png",
+          "/templates/offersuite/images/76keL0jE9vdLQeKFxPjbYiTs1PM.png"
+        ],
+        "location": [
+          "/templates/offersuite/images/9Sa4pDmNsXsyKvskdZ6IVly4ao.png",
+          "/templates/offersuite/images/2JyvF4h80Slmof8hikod3Qg1XM.png",
+          "/templates/offersuite/images/Y8sO0xj16hm1pcEdCd8AGJX1k.png"
+        ],
+        "testimonials": [
+          "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+          "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+          "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+          "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+        ]
+      }
     }
   ],
   "articles": [

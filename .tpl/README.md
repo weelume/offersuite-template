@@ -6,7 +6,7 @@
 
 安装：`pnpm install --frozen-lockfile`。开发：`pnpm dev`，默认 http://127.0.0.1:43360；英文路径 /en。生产：`pnpm build` 后 `pnpm start`。终端 Ctrl+C 停止。端口通过 PORT 调整，不关闭其他进程。
 
-检查：`pnpm typecheck`、`pnpm lint`、`pnpm test`、`pnpm build`。`.tpl/project.json` 定义操作与副作用，读取资料不会自动执行。当前 stage=scaffold：浏览器三端视觉、逐项动效、真实截图尚未完成，不能作为完整复刻验收。
+检查：`pnpm typecheck`、`pnpm lint`、`pnpm test`、`pnpm build`。`.tpl/project.json` 定义操作与副作用，读取资料不会自动执行。当前 stage=ready：已提供三端真实截图与浏览器布局检查。参考站逐项动效比对尚未完全完成，不能作为完整复刻验收。
 
 没有后端、数据库、真实申请、邮件或支付。表单只在当前页面内校验，不发送、不保存。方案价格是参考站演示内容。运行素材本地托管。
 

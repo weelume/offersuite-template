@@ -16,8 +16,117 @@
   ],
   "summary": "21 页料理体验官网：6 类地方体验、6 篇手艺日志、主理人故事、FAQ、候补申请与方案演示。",
   "accentColor": "#48503e",
-  "cover": null,
-  "screenshots": [],
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "OfferSuite desktop home",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/desktop-experience.webp",
+      "alt": "OfferSuite desktop experience",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": "experiences/tuscany"
+    },
+    {
+      "src": "assets/desktop-journal.webp",
+      "alt": "OfferSuite desktop journal",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": "journal"
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "OfferSuite desktop contact",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "OfferSuite tablet home",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-experience.webp",
+      "alt": "OfferSuite tablet experience",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": "experiences/tuscany"
+    },
+    {
+      "src": "assets/tablet-journal.webp",
+      "alt": "OfferSuite tablet journal",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": "journal"
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "OfferSuite tablet contact",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "OfferSuite mobile home",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-experience.webp",
+      "alt": "OfferSuite mobile experience",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": "experiences/tuscany"
+    },
+    {
+      "src": "assets/mobile-journal.webp",
+      "alt": "OfferSuite mobile journal",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": "journal"
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "OfferSuite mobile contact",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    }
+  ],
   "$schema": "./schemas/template.schema.json",
   "format": "git-template",
   "formatVersion": "0.2.0",
@@ -196,5 +305,6 @@
     "file": "docs/LICENSE.md",
     "summary": "参考站视觉和素材的商业及再分发许可未核实；字体按随附许可使用。",
     "redistributionAllowed": false
-  }
+  },
+  "gitUrl": "https://github.com/weelume/offersuite-template"
 }

@@ -1,6 +1,7 @@
 import type {SiteTemplate} from '../../types'
 export const offersuiteTemplate:SiteTemplate={...{
   "id": "offersuite",
+"gitUrl":"https://github.com/weelume/offersuite-template",
   "name": "OfferSuite · 意大利料理体验",
   "localizedNames": {
     "en": "OfferSuite · Private culinary journeys"
@@ -17,15 +18,8 @@ export const offersuiteTemplate:SiteTemplate={...{
   ],
   "summary": "21 页料理体验官网：6 类地方体验、6 篇手艺日志、主理人故事、FAQ、候补申请与方案演示。",
   "accentColor": "#48503e",
-  "cover": "/templates/offersuite/images/4fxpbhm8ADPLyuQRoIh5io88DcY.webp",
-  "screenshots": [
-    {
-      "src": "/templates/offersuite/images/4fxpbhm8ADPLyuQRoIh5io88DcY.webp",
-      "alt": "参考站首屏背景素材（非页面截图，浏览器验收后替换）",
-      "width": 4000,
-      "height": 3200
-    }
-  ]
+  "cover": "/templates/offersuite/screenshots/desktop-home.webp",
+  "screenshots": [{"src":"/templates/offersuite/screenshots/desktop-home.webp","alt":"OfferSuite desktop home","device":"desktop","width":1440,"height":1000},{"src":"/templates/offersuite/screenshots/desktop-experience.webp","alt":"OfferSuite desktop experience","device":"desktop","width":1440,"height":1000},{"src":"/templates/offersuite/screenshots/desktop-journal.webp","alt":"OfferSuite desktop journal","device":"desktop","width":1440,"height":1000},{"src":"/templates/offersuite/screenshots/desktop-contact.webp","alt":"OfferSuite desktop contact","device":"desktop","width":1440,"height":1000},{"src":"/templates/offersuite/screenshots/tablet-home.webp","alt":"OfferSuite tablet home","device":"tablet","width":834,"height":1180},{"src":"/templates/offersuite/screenshots/tablet-experience.webp","alt":"OfferSuite tablet experience","device":"tablet","width":834,"height":1180},{"src":"/templates/offersuite/screenshots/tablet-journal.webp","alt":"OfferSuite tablet journal","device":"tablet","width":834,"height":1180},{"src":"/templates/offersuite/screenshots/tablet-contact.webp","alt":"OfferSuite tablet contact","device":"tablet","width":834,"height":1180},{"src":"/templates/offersuite/screenshots/mobile-home.webp","alt":"OfferSuite mobile home","device":"mobile","width":390,"height":844},{"src":"/templates/offersuite/screenshots/mobile-experience.webp","alt":"OfferSuite mobile experience","device":"mobile","width":390,"height":844},{"src":"/templates/offersuite/screenshots/mobile-journal.webp","alt":"OfferSuite mobile journal","device":"mobile","width":390,"height":844},{"src":"/templates/offersuite/screenshots/mobile-contact.webp","alt":"OfferSuite mobile contact","device":"mobile","width":390,"height":844}]
 },surfaces:[{id:'site',name:'料理体验官网',platform:'pc',locales:['zh','en'],pages:[
 {slug:"",title:"首页",localizedTitles:{en:"Home"},load:()=>import('./pages/HomePage')},
 {slug:"about",title:"关于主理人",localizedTitles:{en:"About"},load:()=>import('./pages/AboutPage')},
