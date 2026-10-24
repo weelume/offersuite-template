@@ -4784,6 +4784,12 @@
       "source": "菜单与 FAQ 开合",
       "implementation": "AnimatePresence 高度与透明度动画；Escape 关闭菜单",
       "verification": "手机菜单开合与 FAQ 展开已验证；原站时长未逐项对比"
+    },
+    {
+      "id": "cursor",
+      "source": "参考首页截图可见的橙色圆心、浅底和深边框指针",
+      "implementation": "Cursor.tsx；鼠标弹簧跟随，触控及减少动态效果关闭，输入区保留原生指针",
+      "verification": "实现完成；浏览器安全阻断后未实际运行对照"
     }
   ],
   "status": "incomplete",
