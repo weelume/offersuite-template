@@ -1,0 +1,13 @@
+{
+  "status": "incomplete",
+  "pages": 21,
+  "locales": [
+    "zh",
+    "en"
+  ],
+  "browser": "内置浏览器读取连续超时，尚未提供可用 Chrome 连接",
+  "screenshots": "未生成，不以参考图片冒充实际截图",
+  "animation": "已据源码实现，尚未逐项运行比对",
+  "git": "远端待核实",
+  "checks": "待运行"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "offersuite",
+  "name": "OfferSuite · 意大利料理体验",
+  "localizedNames": {
+    "en": "OfferSuite · Private culinary journeys"
+  },
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "料理体验",
+    "邀请制",
+    "意大利风土",
+    "分层视差",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "summary": "21 页料理体验官网：6 类地方体验、6 篇手艺日志、主理人故事、FAQ、候补申请与方案演示。",
+  "accentColor": "#48503e",
+  "cover": null,
+  "screenshots": [],
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "version": "1.0.0",
+  "localizedSummaries": {
+    "en": "Culinary experiences with six regional programmes, journal, bilingual pages and local-only application demo."
+  },
+  "stack": [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Framer Motion"
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "料理体验官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "关于主理人",
+          "localizedTitles": {
+            "en": "About"
+          }
+        },
+        {
+          "slug": "journal",
+          "title": "手艺日志",
+          "localizedTitles": {
+            "en": "Journal"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系与申请",
+          "localizedTitles": {
+            "en": "Contact"
+          }
+        },
+        {
+          "slug": "checkout",
+          "title": "方案展示",
+          "localizedTitles": {
+            "en": "Plans"
+          }
+        },
+        {
+          "slug": "404",
+          "title": "页面未找到",
+          "localizedTitles": {
+            "en": "Page not found"
+          }
+        },
+        {
+          "slug": "thank-you",
+          "title": "演示致谢",
+          "localizedTitles": {
+            "en": "Thank you"
+          }
+        },
+        {
+          "slug": "legal/privacy-policy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy Policy"
+          }
+        },
+        {
+          "slug": "legal/terms-of-service",
+          "title": "服务条款",
+          "localizedTitles": {
+            "en": "Terms of Service"
+          }
+        },
+        {
+          "slug": "experiences/lake-como",
+          "title": "长桌共研",
+          "localizedTitles": {
+            "en": "The Long Table"
+          }
+        },
+        {
+          "slug": "experiences/venice",
+          "title": "潟湖之席",
+          "localizedTitles": {
+            "en": "The Lagoon Table"
+          }
+        },
+        {
+          "slug": "experiences/tuscany",
+          "title": "托斯卡纳之席",
+          "localizedTitles": {
+            "en": "The Tuscan Table"
+          }
+        },
+        {
+          "slug": "experiences/naples",
+          "title": "那不勒斯之席",
+          "localizedTitles": {
+            "en": "The Neapolitan Table"
+          }
+        },
+        {
+          "slug": "experiences/rome",
+          "title": "四种意面",
+          "localizedTitles": {
+            "en": "The Four Pasta"
+          }
+        },
+        {
+          "slug": "experiences/dolomites",
+          "title": "阿尔卑斯之席",
+          "localizedTitles": {
+            "en": "The Alpine Table"
+          }
+        },
+        {
+          "slug": "journal/what-a-tuscan-table-teaches",
+          "title": "托斯卡纳餐桌教会我们的事",
+          "localizedTitles": {
+            "en": "What a Tuscan table teaches"
+          }
+        },
+        {
+          "slug": "journal/learning-to-cook-with-the-lagoon",
+          "title": "跟随潟湖学做菜",
+          "localizedTitles": {
+            "en": "Learning to cook with the lagoon"
+          }
+        },
+        {
+          "slug": "journal/four-pastas-a-thousand-decisions",
+          "title": "四种意面，一千个决定",
+          "localizedTitles": {
+            "en": "Four pastas, a thousand decisions"
+          }
+        },
+        {
+          "slug": "journal/the-pleasure-of-a-longer-lunch",
+          "title": "一顿悠长午餐的乐趣",
+          "localizedTitles": {
+            "en": "The pleasure of a longer lunch"
+          }
+        },
+        {
+          "slug": "journal/a-kitchen-between-the-mountains",
+          "title": "群山之间的厨房",
+          "localizedTitles": {
+            "en": "A kitchen between the mountains"
+          }
+        },
+        {
+          "slug": "journal/dough-rewards-your-attention",
+          "title": "面团会回报你的专注",
+          "localizedTitles": {
+            "en": "Dough rewards your attention"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "参考站视觉和素材的商业及再分发许可未核实；字体按随附许可使用。",
+    "redistributionAllowed": false
+  }
+}

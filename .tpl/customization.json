@@ -1,0 +1,112 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌与页脚",
+      "description": "修改对应模块并维护中英文一致性。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/offersuite/config",
+          "kind": "directory",
+          "purpose": "品牌与页脚"
+        }
+      ],
+      "constraints": [
+        "不新增未批准依赖",
+        "保留本地表单语义和减少动态效果支持"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "体验与日志双语内容",
+      "description": "修改对应模块并维护中英文一致性。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/offersuite/content",
+          "kind": "directory",
+          "purpose": "体验与日志双语内容"
+        }
+      ],
+      "constraints": [
+        "不新增未批准依赖",
+        "保留本地表单语义和减少动态效果支持"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题与响应式",
+      "description": "修改对应模块并维护中英文一致性。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/offersuite/theme.css",
+          "kind": "file",
+          "purpose": "主题与响应式"
+        }
+      ],
+      "constraints": [
+        "不新增未批准依赖",
+        "保留本地表单语义和减少动态效果支持"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "pages",
+      "title": "页面组合",
+      "description": "修改对应模块并维护中英文一致性。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/offersuite/pages",
+          "kind": "directory",
+          "purpose": "页面组合"
+        }
+      ],
+      "constraints": [
+        "不新增未批准依赖",
+        "保留本地表单语义和减少动态效果支持"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "motion",
+      "title": "动效与交互",
+      "description": "修改对应模块并维护中英文一致性。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/offersuite/components",
+          "kind": "directory",
+          "purpose": "动效与交互"
+        }
+      ],
+      "constraints": [
+        "不新增未批准依赖",
+        "保留本地表单语义和减少动态效果支持"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    }
+  ]
+}

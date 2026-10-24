@@ -1,0 +1,1406 @@
+{
+  "experiences": [
+    {
+      "id": "lake-como",
+      "region": {
+        "zh": "科莫湖",
+        "en": "Lake Como"
+      },
+      "title": {
+        "zh": "长桌共研",
+        "en": "The Long Table"
+      },
+      "subtitle": {
+        "zh": "六个月，与厨师和餐饮经营者一起，从技艺走向事业的下一步。",
+        "en": "A six-month table for chefs and food-business owners who are past technique and stuck on everything else."
+      },
+      "intro": {
+        "zh": "长桌是一场持续六个月的工作共研。我们在科莫湖短住，也把厨房与经营中的真实问题带回日常实践。再次见面时，与熟悉你工作的伙伴交换坦诚反馈。",
+        "en": "The Long Table is a six-month working circle for chefs and food-business owners who want more than another burst of inspiration. Between intimate residencies at Lake Como, you bring real questions from your kitchen or business, test them in practice, and return to a group that knows your work well enough to challenge it."
+      },
+      "scheduleTitle": {
+        "zh": "六个月的安排",
+        "en": "What the 6 Months Hold"
+      },
+      "scheduleSubtitle": {
+        "zh": "在驻留、交流与持续实践之间，找到从容而稳定的节奏。",
+        "en": "A measured rhythm of residencies, honest exchange, and sustained work on what matters next."
+      },
+      "steps": [
+        {
+          "title": {
+            "zh": "每月两次的长桌",
+            "en": "The Twice-Monthly Table"
+          },
+          "body": {
+            "zh": "带来眼前的决策、难解的问题，以及需要重新审视的工作。",
+            "en": "Gather twice each month around a small working table. Bring current decisions, difficult questions, and the parts of your practice that need a clearer eye."
+          }
+        },
+        {
+          "title": {
+            "zh": "第一次湖畔驻留",
+            "en": "Arrival - The First Residency"
+          },
+          "body": {
+            "zh": "梳理你的厨房、业务与希望突破的具体问题，为接下来的实践确定方向。",
+            "en": "Begin the first Lake Como residency by mapping the work ahead: your kitchen, your business, and the specific problem you want to move through."
+          }
+        },
+        {
+          "title": {
+            "zh": "别墅露台",
+            "en": "The Villa Terrace"
+          },
+          "body": {
+            "zh": "在专注讨论、共享餐食与从容的谈话中，为更好的判断留出空间。",
+            "en": "Use the villa terrace as a place for focused sessions, shared meals, and conversations that make space for better decisions."
+          }
+        },
+        {
+          "title": {
+            "zh": "中期一对一",
+            "en": "The Midpoint 1:1"
+          },
+          "body": {
+            "zh": "回顾已经发生的变化、尚未解决的问题，并明确接下来几个月的重点。",
+            "en": "A private midpoint session creates room to assess what has shifted, what remains stuck, and where to direct the next few months of effort."
+          }
+        },
+        {
+          "title": {
+            "zh": "最后一次驻留",
+            "en": "The Closing Residency"
+          },
+          "body": {
+            "zh": "带着实践中的证据回到长桌，找到更有力量的前行方式。",
+            "en": "Return for the closing residency with evidence from the work itself. The final table is less about conclusions than about finding a stronger way forward."
+          }
+        }
+      ],
+      "included": [
+        {
+          "title": {
+            "zh": "一对一交流",
+            "en": "1:1 Session"
+          },
+          "body": {
+            "zh": "由导师提供专属的中期一对一会谈。",
+            "en": "A dedicated one-to-one midpoint session with the maestro."
+          }
+        },
+        {
+          "title": {
+            "zh": "餐饮体验",
+            "en": "Culinary"
+          },
+          "body": {
+            "zh": "驻留期间的共享餐食、生产者探访，以及不赶时间的交流。",
+            "en": "Shared residency meals, local producer visits, and tables designed for unhurried conversation."
+          }
+        },
+        {
+          "title": {
+            "zh": "共研课程",
+            "en": "Group Sessions"
+          },
+          "body": {
+            "zh": "每月两次工作讨论、引导问题与学习资料。",
+            "en": "Twice-monthly working sessions, guided prompts, and resources."
+          }
+        },
+        {
+          "title": {
+            "zh": "住宿",
+            "en": "Accommodation"
+          },
+          "body": {
+            "zh": "科莫湖驻留期间的独立住宿。",
+            "en": "Private accommodation during the Lake Como residencies."
+          }
+        }
+      ],
+      "locationTitle": {
+        "zh": "在科莫湖畔",
+        "en": "Set on Lake Como"
+      },
+      "locationSubtitle": {
+        "zh": "让专注与深入交谈，自然发生。",
+        "en": "A quieter setting for long attention and serious conversation."
+      },
+      "location": {
+        "zh": "共研在科莫湖上方的一座私人别墅中举行。",
+        "en": "The residencies take place in a private villa above Lake Como."
+      },
+      "locationBody": {
+        "zh": "湖水让日常经营的节奏慢下来。距离城市足够近，也足够安静，让我们认真投入工作。申请获准后提供具体地址。",
+        "en": "The lake creates a natural pause from the pace of daily service and decision-making. It is close enough to reach, but removed enough to do the work properly. Exact location details are shared after your application is approved."
+      },
+      "formTitle": {
+        "zh": "申请长桌共研",
+        "en": "Apply for the Long Table"
+      },
+      "formBody": {
+        "zh": "每桌名额有限，真实活动由主理人审核申请。本演示只做本地校验，不发送或保存信息。",
+        "en": "The group is intentionally small and formed around the quality of the conversation. Share where your work is now and what you are ready to examine. Demo only: this form validates locally and does not send or save data."
+      },
+      "status": {
+        "zh": "开放申请",
+        "en": "Open"
+      },
+      "duration": {
+        "zh": "六个月主理人共研",
+        "en": "6-Month Mastermind"
+      },
+      "images": [
+        "/templates/offersuite/images/2paDgVO2rAVmPPrmZHkJ2ABOuto.webp",
+        "/templates/offersuite/images/jk1irEXJ8OeFx5zzGRB2UmIaVc.webp",
+        "/templates/offersuite/images/9LOWZS2mrQvtu4pFRGKxp5GTtmo.webp",
+        "/templates/offersuite/images/6mnOuCwPcdbLnFAfsLsa2GHVeg.png",
+        "/templates/offersuite/images/Bl9kf0QNVvOnEekDiPn4PpkvvdY.png",
+        "/templates/offersuite/images/1C6I6YUXjE32EJIDgHhuyAelHw.png",
+        "/templates/offersuite/images/O7HB2JIptq16rxhYmLeuriYp8.png",
+        "/templates/offersuite/images/iTWR1DfDWiPTKHvcF1DjVNtOvE8.png",
+        "/templates/offersuite/images/QoMKoNH5iDZPfKklI3JYOlHxVto.png",
+        "/templates/offersuite/images/TZrHbcxA1c3kHyvJnGdDYwnw.png",
+        "/templates/offersuite/images/Wvn8Gq5LaFtOdVZHzJmJag6kR8.png",
+        "/templates/offersuite/images/hraePGGOU9DksDzWMQOVSa5KPE.png",
+        "/templates/offersuite/images/lhZLZ60ttRh25vUEfeJXEeT7jGk.png",
+        "/templates/offersuite/images/1QQFJa1JStzQu0Bg8sWlBJwJU.png",
+        "/templates/offersuite/images/k25uP1x9P3Ed678qrygC38Eq8xY.png",
+        "/templates/offersuite/images/dTo0rog61AxcgbDNRUSXDzUrDo.png",
+        "/templates/offersuite/images/tPKF4x49dykXkQzpq2HTQGFY188.png",
+        "/templates/offersuite/images/AMLLiZuduma63h4dYoaSWOodzRw.png",
+        "/templates/offersuite/images/fmAqcWFimqW3cjTSyzs4sweSRg.png",
+        "/templates/offersuite/images/8qSt6bWx4Qs68myyT6TZAH728mA.png",
+        "/templates/offersuite/images/XzV0TtG5S3tAFbQvyh0oF3JlSg.png",
+        "/templates/offersuite/images/7zw7214mHjHv0IGKrnMphXu6Ko.png",
+        "/templates/offersuite/images/LOtAY1Amx3SWjzqIroXulebPk8Y.png",
+        "/templates/offersuite/images/NDUI7Yc58fyAf4fxiThXAOp1v0.png",
+        "/templates/offersuite/images/qdMV2j7dvTQz5mzZiwFIg0dJeI.png",
+        "/templates/offersuite/images/dSANlHDkcwbfkphb2h6OKGpVnW4.png",
+        "/templates/offersuite/images/hHbn1dBxGWmwFwNe2ANneXJlCiE.png",
+        "/templates/offersuite/images/Dflwduh4Ba3A3iZWZAZ1KAg0zqU.png",
+        "/templates/offersuite/images/wV4eIx47pqequ2kbiRnBEMiHvA.png",
+        "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+        "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+        "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+        "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+      ]
+    },
+    {
+      "id": "venice",
+      "region": {
+        "zh": "威尼斯",
+        "en": "Venice"
+      },
+      "title": {
+        "zh": "潟湖之席",
+        "en": "The Lagoon Table"
+      },
+      "subtitle": {
+        "zh": "用五天认识潟湖海鲜、意式烩饭，以及特雷维索沿用至今的提拉米苏手艺。",
+        "en": "A five-day immersion into lagoon seafood, risotto, and tiramisu made the way Treviso has made it since the late 1960s."
+      },
+      "intro": {
+        "zh": "威尼斯的饮食故事远比一道甜点复杂。作为贸易门户的一千年，塑造了这张餐桌上的每一种味道。我们走进市场、渔船与厨房，理解食物为何成为今天的样子。",
+        "en": "Venice’s food story is more complex than a single dessert. A thousand years as a trading gateway shaped everything on this week’s table, long before “Italian cuisine” was a phrase anyone used. Many people who cook Venetian food have never been told why it tastes the way it does."
+      },
+      "scheduleTitle": {
+        "zh": "五天的安排",
+        "en": "What the 5 Days Hold"
+      },
+      "scheduleSubtitle": {
+        "zh": "每一刻都为深入理解、精进技艺而设计。",
+        "en": "Every moment designed for depth, craft, and mastery."
+      },
+      "steps": [
+        {
+          "title": {
+            "zh": "抵达与水上小食",
+            "en": "Arrival - Cicchetti on the Water"
+          },
+          "body": {
+            "zh": "在傍晚的水边品尝小食，让当天的新鲜渔获决定菜单。",
+            "en": "Late afternoon on the water: cicchetti and a first taste of what the lagoon actually offers. There is no fixed menu, only what came in that morning."
+          }
+        },
+        {
+          "title": {
+            "zh": "与渔人共度清晨",
+            "en": "The Lagoon - Morning with a Fisherman"
+          },
+          "body": {
+            "zh": "市场开门前随当地渔人出发，像当地人一样，根据当天的好食材采购。",
+            "en": "Out with a local fisherman before the market opens. You’ll learn to buy the way locals do, by what’s good that day, not by a shopping list."
+          }
+        },
+        {
+          "title": {
+            "zh": "豌豆烩饭与墨鱼汁",
+            "en": "Risotto - Risi e Bisi"
+          },
+          "body": {
+            "zh": "练习需要耐心的烩饭技法，理解水分、温度与时间如何相互作用。",
+            "en": "Risi e bisi and squid-ink nero di seppia: technique-heavy dishes unforgiving of impatience. Most people’s first risotto is either soup or glue."
+          }
+        },
+        {
+          "title": {
+            "zh": "特雷维索的原始做法",
+            "en": "Treviso - The Original Method"
+          },
+          "body": {
+            "zh": "拜访数十年坚持同一配方的厨房，学习传统提拉米苏。",
+            "en": "A short drive to learn the original tiramisu method from a kitchen that has kept the same recipe unchanged for decades."
+          }
+        },
+        {
+          "title": {
+            "zh": "属于你的最后菜单",
+            "en": "Your Table - The Final Menu"
+          },
+          "body": {
+            "zh": "用所学组合完整的威尼斯菜单，由 Giulia 和 Elena 给出坦诚反馈。",
+            "en": "You’ll build a full Venetian menu from what you’ve learned. Giulia and Elena will taste everything honestly."
+          }
+        }
+      ],
+      "included": [
+        {
+          "title": {
+            "zh": "后续交流",
+            "en": "Post Support"
+          },
+          "body": {
+            "zh": "课程结束后加入往届学员餐桌，继续交换经验。",
+            "en": "An invitation to the alumni table for continued exchange after the week ends."
+          }
+        },
+        {
+          "title": {
+            "zh": "亲自指导",
+            "en": "Personal Guidance"
+          },
+          "body": {
+            "zh": "Giulia 与当地厨师全程提供直接指导。",
+            "en": "Direct guidance from Giulia and the local cooks throughout the immersion."
+          }
+        },
+        {
+          "title": {
+            "zh": "餐饮体验",
+            "en": "Culinary"
+          },
+          "body": {
+            "zh": "渔人带领的潟湖清晨、当地小食、葡萄酒与特雷维索探访。",
+            "en": "A fisherman-led lagoon morning, cicchetti tables, regional wines, and the Treviso visit."
+          }
+        },
+        {
+          "title": {
+            "zh": "材料",
+            "en": "Materials"
+          },
+          "body": {
+            "zh": "包含食材、品鉴、厨房课程与当地交通。",
+            "en": "All ingredients, tastings, kitchen sessions, and local transport are included."
+          }
+        },
+        {
+          "title": {
+            "zh": "住宿",
+            "en": "Accommodation"
+          },
+          "body": {
+            "zh": "在威尼斯与特雷维索享受五晚独立住宿。",
+            "en": "Five nights across Venice and Treviso, with private accommodation."
+          }
+        }
+      ],
+      "locationTitle": {
+        "zh": "走进威尼斯",
+        "en": "Set in the Heart of Venice"
+      },
+      "locationSubtitle": {
+        "zh": "水、贸易与鲜明的地方风味，在这里相遇。",
+        "en": "Where water, trade, and a fiercely local pantry meet."
+      },
+      "location": {
+        "zh": "课堂跨越威尼斯、潟湖与附近的特雷维索。",
+        "en": "The masterclass moves between Venice, the lagoon, and nearby Treviso."
+      },
+      "locationBody": {
+        "zh": "这是一条真实工作的路线：清晨的市集、潟湖上的船、街坊酒馆，以及恪守传承的厨房。申请获准后提供集合详情。",
+        "en": "This is a working route rather than a single classroom: market stalls at dawn, boats on the lagoon, neighborhood bacari, and kitchens with their own inherited rules. Exact meeting details are shared after your application is approved."
+      },
+      "formTitle": {
+        "zh": "申请潟湖之席",
+        "en": "Apply for the Lagoon Table"
+      },
+      "formBody": {
+        "zh": "每桌名额有限，真实活动由主理人审核申请。本演示只做本地校验，不发送或保存信息。",
+        "en": "The Venice immersion is limited to a small group so every market visit, boat ride, and kitchen session remains personal. Demo only: this form validates locally and does not send or save data."
+      },
+      "status": {
+        "zh": "开放申请",
+        "en": "Open"
+      },
+      "duration": {
+        "zh": "五天潟湖料理体验",
+        "en": "5-Day Lagoon-to-Table Immersion"
+      },
+      "images": [
+        "/templates/offersuite/images/lTzZUEDgrvgP9cojC7kKHfZMs.webp",
+        "/templates/offersuite/images/Vz6jjk6QmbcgYfva7MRwywNxDA.webp",
+        "/templates/offersuite/images/lk6TStwuyOVBZ2rlvonURn260gQ.png",
+        "/templates/offersuite/images/MTmkEIqAN8ioZWaHO4liF0I.png",
+        "/templates/offersuite/images/jkpeXZbgf3M7zAB6gA7tsWhsxM.png",
+        "/templates/offersuite/images/EhXTDSYvJel3XUJkvPBdqxj6bSg.png",
+        "/templates/offersuite/images/dlVxnumL5jQIE82GQ6grT9H2fQ.png",
+        "/templates/offersuite/images/CgWDmQ0pU5hfUc4b8VgSTu8N00s.png",
+        "/templates/offersuite/images/MrMYdgA5EAOj3QsdHrOF4mNJyL8.png",
+        "/templates/offersuite/images/mIQHHLwGNI27EAEhMOtqGdZEVrw.png",
+        "/templates/offersuite/images/TR9tiGZesxuiXskUae6iDDNmDw.png",
+        "/templates/offersuite/images/nwe1V6G6kr1NhGCWTWmO421B14.png",
+        "/templates/offersuite/images/65LRQnWVdhDZG697KgO5gIlmqnM.png",
+        "/templates/offersuite/images/Y3gKiBn1N2hC9hXxZ0dIFaj3xo.png",
+        "/templates/offersuite/images/hqTm5Wcb6gKvqD2mGEMOYDE5I.png",
+        "/templates/offersuite/images/YumKIDYu6AtGlzXGmUrW8C0SemI.png",
+        "/templates/offersuite/images/vSF51dWIyzrBXMCDXoiVxkYi40.png",
+        "/templates/offersuite/images/Q0UnkrJy9NymMgLalJUlIzl2Ww.png",
+        "/templates/offersuite/images/sdbGe9Gh5lpo3JX92V50hbF0RE.png",
+        "/templates/offersuite/images/T0rfAxgOfy26tLYOCe8IaawAI.png",
+        "/templates/offersuite/images/QPWgdnRd19Ridzklui18Mscvo4.png",
+        "/templates/offersuite/images/5HnclaUklKjJHL4k0ogEoUmae2k.png",
+        "/templates/offersuite/images/3NiZvhlt2a3ld6syapCKpz5AIZg.png",
+        "/templates/offersuite/images/nBuY5OlOizJ8fLUmhzuWmYVzg.png",
+        "/templates/offersuite/images/nckyVwjwomitzdEvuGi7XzKOzI.png",
+        "/templates/offersuite/images/tGcJPgXIiBl3cUfrJfMHLWCuWk.png",
+        "/templates/offersuite/images/hlKsEf0MZZ1SdMjb3L88mUJt7Q.png",
+        "/templates/offersuite/images/RzQWek25uGYyra15XCYmMeew.png",
+        "/templates/offersuite/images/ySeWNRkqMAOvxy8d6rbLAoapBE.png",
+        "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+        "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+        "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+        "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+      ]
+    },
+    {
+      "id": "tuscany",
+      "region": {
+        "zh": "托斯卡纳",
+        "en": "Tuscany"
+      },
+      "title": {
+        "zh": "托斯卡纳之席",
+        "en": "The Tuscan Table"
+      },
+      "subtitle": {
+        "zh": "与 Giulia Ferretti 共度八人料理时光，一座农庄、一炉柴火、一份原初的手艺。",
+        "en": "An eight-person culinary immersion with Chef Giulia Ferretti. A farmhouse, a wood fire, original technique."
+      },
+      "intro": {
+        "zh": "我们相信精湛手艺来自缓慢、专注的亲手练习。48 小时里，你将走进私人农庄厨房，学习酸种披萨背后的科学、节奏与直觉。不赶进度，不走捷径，由导师指导每一步。",
+        "en": "This is a workshop for those who believe mastery is built slowly, intentionally, and by hand. For 48 hours, you’ll step inside a private Tuscan kitchen to learn the science, rhythm, and instinct behind exceptional sourdough pizza. No crowds. No shortcuts. No certificates for showing up. Just fire, fermentation, and a maestro guiding every step."
+      },
+      "scheduleTitle": {
+        "zh": "48 小时的安排",
+        "en": "What the 48 Hours Hold"
+      },
+      "scheduleSubtitle": {
+        "zh": "每一刻都为深入理解、精进技艺而设计。",
+        "en": "Every moment designed for depth, craft, and mastery."
+      },
+      "steps": [
+        {
+          "title": {
+            "zh": "酸种的科学",
+            "en": "The Science of Sourdough"
+          },
+          "body": {
+            "zh": "通过揉面与柴火烘烤，理解发酵、含水量与热量，而非仅仅照着配方操作。",
+            "en": "Master fermentation, hydration, and heat through guided dough work and live-fire baking. Learn why dough behaves the way it does, not just how to follow a recipe."
+          }
+        },
+        {
+          "title": {
+            "zh": "托斯卡纳市集",
+            "en": "The Tuscan Market Immersion"
+          },
+          "body": {
+            "zh": "带着厨师的眼光采购，直接向种植者与生产者了解面粉、番茄和罗勒。",
+            "en": "Walk the local markets with a chef’s eye. Source flour, tomatoes, and basil directly from the people who grow and make them."
+          }
+        },
+        {
+          "title": {
+            "zh": "亲手掌握柴火炉",
+            "en": "Private Wood-Fired Sessions"
+          },
+          "body": {
+            "zh": "每个人都实际操作，导师提供一对一反馈，让你学会读懂火候。",
+            "en": "Hands-on oven time with direct, personal feedback. No demonstrations. We make sure every participant works the fire."
+          }
+        },
+        {
+          "title": {
+            "zh": "庄园日落晚餐",
+            "en": "Sunset Estate Dinner"
+          },
+          "body": {
+            "zh": "与同行伙伴在私人庄园分享亲手制作的晚餐，让暮色成为餐桌的背景。",
+            "en": "An intimate dinner featuring your own creations, shared at a private Tuscan estate with all the participants as the sun goes down."
+          }
+        },
+        {
+          "title": {
+            "zh": "从技法到直觉",
+            "en": "From Technique to Instinct"
+          },
+          "body": {
+            "zh": "超越刻度与计时，学会观察面团、感受发酵，在真实环境中自信操作。",
+            "en": "Move beyond measurements and timers. Learn to read dough, feel fermentation, and work with confidence under real conditions."
+          }
+        }
+      ],
+      "included": [
+        {
+          "title": {
+            "zh": "亲自指导",
+            "en": "Personal Guidance"
+          },
+          "body": {
+            "zh": "整个体验中都能直接向导师请教。",
+            "en": "Direct access to the maestro throughout the experience."
+          }
+        },
+        {
+          "title": {
+            "zh": "餐饮体验",
+            "en": "Culinary"
+          },
+          "body": {
+            "zh": "私人庄园晚宴、当地葡萄酒搭配与生产者市集探访。",
+            "en": "Private estate dinners, local wine pairings, and a guided market immersion with regional producers."
+          }
+        },
+        {
+          "title": {
+            "zh": "材料",
+            "en": "Materials"
+          },
+          "body": {
+            "zh": "包含全部课程、食材、工具与学习资料。",
+            "en": "Every session, ingredient, tool, and resource is provided."
+          }
+        },
+        {
+          "title": {
+            "zh": "住宿",
+            "en": "Accommodation"
+          },
+          "body": {
+            "zh": "两晚安静的乡间庄园住宿，仅与同行学员共享。",
+            "en": "Two nights in a secluded countryside estate, shared only with fellow participants."
+          }
+        }
+      ],
+      "locationTitle": {
+        "zh": "托斯卡纳腹地",
+        "en": "Set in the Heart of Tuscany"
+      },
+      "locationSubtitle": {
+        "zh": "传统、土地与手艺的交汇处。",
+        "en": "Where tradition, land, and craft intersect."
+      },
+      "location": {
+        "zh": "课程在一座私人托斯卡纳庄园举行。",
+        "en": "The masterclass takes place in a private Tuscan estate."
+      },
+      "locationBody": {
+        "zh": "四周是橄榄林与葡萄园，远离游客路线。这里的气候、食材和生活节奏，也是课程的一部分。申请获准后提供具体地址。",
+        "en": "This location is surrounded by olive groves and vineyards, far from tourist routes and distractions. The climate, ingredients, and pace of life here are essential to understanding the craft. Exact location details are shared after your application is approved."
+      },
+      "formTitle": {
+        "zh": "申请托斯卡纳之席",
+        "en": "Apply for A Seat"
+      },
+      "formBody": {
+        "zh": "每桌名额有限，真实活动由主理人审核申请。本演示只做本地校验，不发送或保存信息。",
+        "en": "Participation is limited and intentionally curated. We review every application to ensure alignment, commitment, and a focused group environment. Pricing and availability are shared privately with approved applicants. Demo only: this form validates locally and does not send or save data."
+      },
+      "status": {
+        "zh": "开放申请",
+        "en": "Open"
+      },
+      "duration": {
+        "zh": "48 小时酸种披萨课",
+        "en": "48-Hour Sourdough Pizza Intensive"
+      },
+      "images": [
+        "/templates/offersuite/images/d8lHvFI08OHv2PrH5sAMv0uxZ8.webp",
+        "/templates/offersuite/images/48F5uiNn26d31G6teUuSiqMrks.webp",
+        "/templates/offersuite/images/psnU0sDtBCO53NSb5WJnyhxA.webp",
+        "/templates/offersuite/images/XYlIjtidkqawWCc0yLQfCeBYuBE.png",
+        "/templates/offersuite/images/P5c3gaYmJzpp2PEhrM4GZvn5Tyg.png",
+        "/templates/offersuite/images/WxFLTiOhDeAmHhJQJXbGkVvM.png",
+        "/templates/offersuite/images/2YUszBM4GPvk0SSWNZZwyaBlU.png",
+        "/templates/offersuite/images/g9IS65hX3MsPcihMrV1Oqpfs.png",
+        "/templates/offersuite/images/qh9EZVcA8QO0guYz1AyJ7f0c.png",
+        "/templates/offersuite/images/wVbA5sxX5hcRH7ViMIFKQLBLUg.png",
+        "/templates/offersuite/images/TECdMwS2Mjvk5XzmL7nUvADX5M.png",
+        "/templates/offersuite/images/jfYxAk7XGlOSRMdil4GJraiPMg.png",
+        "/templates/offersuite/images/Cx1ybmSoInJcQCkT3oaIfovbHU.png",
+        "/templates/offersuite/images/p19Goxp3lScQsbs0ZWbeUhy543A.png",
+        "/templates/offersuite/images/5FMjQGTejyZhxD8N0tVsHi9hj0.png",
+        "/templates/offersuite/images/I4jHp602lgnlvrenIJ0se44UM0g.png",
+        "/templates/offersuite/images/sudpNzYLBSdoeU9ToA8Sb7FhA.png",
+        "/templates/offersuite/images/KLuSEIhAKWL3DM37ZpM7BFb7g9k.png",
+        "/templates/offersuite/images/WMIcwmma7V6h14sKWTZIVd6a4jM.png",
+        "/templates/offersuite/images/LK9BZCMKqZmAs9FpgP09RjgYZo.png",
+        "/templates/offersuite/images/k6fva5TsIdTEIcJGy6c0qX0Nyg.png",
+        "/templates/offersuite/images/e7ERSORCGZ7GXEvCq4PRUqCc.png",
+        "/templates/offersuite/images/bhekDgOkzJ93cYKnvqbaZp5D6Rc.png",
+        "/templates/offersuite/images/7iyB0OdiNP0hutEM02tLhWfHnHo.png",
+        "/templates/offersuite/images/yYNmH5RcyaouDvEE3w7YYEyk844.png",
+        "/templates/offersuite/images/1WIN2B96iqFGOdC6rsB8rLN5xdg.png",
+        "/templates/offersuite/images/0BwyU4t1s1BzU7symTQeFQbvu8.png",
+        "/templates/offersuite/images/AxpKyhmjEQpZM88XX5mjq4EXsh4.png",
+        "/templates/offersuite/images/juys8O8sYMgpbMHXmd7sPmAzk.png",
+        "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+        "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+        "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+        "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+      ]
+    },
+    {
+      "id": "naples",
+      "region": {
+        "zh": "那不勒斯",
+        "en": "Naples"
+      },
+      "title": {
+        "zh": "那不勒斯之席",
+        "en": "The Neapolitan Table"
+      },
+      "subtitle": {
+        "zh": "八个人，走进真实营业的披萨店，在炽热炉火旁学习原本的做法。",
+        "en": "An eight-person culinary immersion in Naples. A working pizzeria, a blazing oven, and the original instruction."
+      },
+      "intro": {
+        "zh": "五天里，我们在私人那不勒斯厨房研究面团、热量、时机与直觉。没有围观人群，不以证书代替练习，只有面粉、火焰和指导每一步的导师。",
+        "en": "This is a workshop for those who believe mastery is built slowly, intentionally, and by hand. For five days, you’ll step inside a private Neapolitan kitchen to study dough, heat, timing, and instinct behind exceptional pizza. No crowds. No shortcuts. No certificates for showing up. Just flour, fire, and a maestro guiding every step."
+      },
+      "scheduleTitle": {
+        "zh": "五天的安排",
+        "en": "What the 5 Days Hold"
+      },
+      "scheduleSubtitle": {
+        "zh": "围绕温度、反复练习与技艺精进展开。",
+        "en": "Every moment designed around heat, repetition, and mastery."
+      },
+      "steps": [
+        {
+          "title": {
+            "zh": "那不勒斯面团",
+            "en": "The Neapolitan Dough"
+          },
+          "body": {
+            "zh": "练习含水量、发酵与整形，理解温度、时间和触感如何塑造披萨结构。",
+            "en": "Master hydration, fermentation, and shaping through guided dough work and live-fire baking. Learn how temperature, timing, and touch create the structure behind a great pizza."
+          }
+        },
+        {
+          "title": {
+            "zh": "那不勒斯市集",
+            "en": "Markets of Naples"
+          },
+          "body": {
+            "zh": "从当地生产者那里采购番茄、马苏里拉、面粉与时令蔬菜。",
+            "en": "Walk Naples with a chef’s eye. Source tomatoes, mozzarella, flour, and seasonal produce directly from the makers who define the city’s food culture."
+          }
+        },
+        {
+          "title": {
+            "zh": "私人柴火炉课程",
+            "en": "Private Wood-Fired Sessions"
+          },
+          "body": {
+            "zh": "亲手操作烤炉，接受直接反馈，每个人都练习读懂炉火。",
+            "en": "Hands-on oven time with direct, personal feedback. No demonstrations. No spectators. Every participant learns to read the fire."
+          }
+        },
+        {
+          "title": {
+            "zh": "披萨店的夜晚",
+            "en": "An Evening at the Pizzeria"
+          },
+          "body": {
+            "zh": "在城市入夜时，与伙伴分享亲手制作的披萨和一场亲密的晚餐。",
+            "en": "Share an intimate dinner around your own creations in a private Neapolitan setting, with the group gathered as the city settles into the evening."
+          }
+        },
+        {
+          "title": {
+            "zh": "从技法到直觉",
+            "en": "From Technique to Instinct"
+          },
+          "body": {
+            "zh": "读懂面团、感受发酵，在真实出餐节奏中建立信心。",
+            "en": "Move beyond measurements and timers. Learn to read dough, feel fermentation, and work with confidence under real service conditions."
+          }
+        }
+      ],
+      "included": [
+        {
+          "title": {
+            "zh": "亲自指导",
+            "en": "Personal Guidance"
+          },
+          "body": {
+            "zh": "整个体验中都能直接向导师请教。",
+            "en": "Direct access to the maestro throughout the experience."
+          }
+        },
+        {
+          "title": {
+            "zh": "餐饮体验",
+            "en": "Culinary"
+          },
+          "body": {
+            "zh": "私人披萨晚宴、地方葡萄酒与生产者探访。",
+            "en": "Private pizzeria dinners, regional wine pairings, and guided visits with local producers and craftspeople."
+          }
+        },
+        {
+          "title": {
+            "zh": "材料",
+            "en": "Materials"
+          },
+          "body": {
+            "zh": "包含全部课程、食材、工具与学习资料。",
+            "en": "Every session, ingredient, tool, and resource is provided."
+          }
+        },
+        {
+          "title": {
+            "zh": "住宿",
+            "en": "Accommodation"
+          },
+          "body": {
+            "zh": "四晚富有当地特色的住所，仅与同行学员共享。",
+            "en": "Four nights in a characterful Neapolitan residence, shared only with fellow participants."
+          }
+        }
+      ],
+      "locationTitle": {
+        "zh": "那不勒斯的心脏",
+        "en": "Set in the Heart of Naples"
+      },
+      "locationSubtitle": {
+        "zh": "热量、历史与手艺，在此相遇。",
+        "en": "Where heat, history, and craft meet."
+      },
+      "location": {
+        "zh": "课程在一座私人那不勒斯宅邸举行。",
+        "en": "The masterclass takes place in a private Neapolitan palazzo."
+      },
+      "locationBody": {
+        "zh": "靠近市场、烤炉与街头生活，也保有深入学习所需的安静与专注。申请获准后提供具体地址。",
+        "en": "This location sits close to the rhythm of Naples—its markets, ovens, and street life—while offering the focus needed for deep work. Exact location details are shared after your application is approved."
+      },
+      "formTitle": {
+        "zh": "申请那不勒斯之席",
+        "en": "Apply for the Neapolitan Table"
+      },
+      "formBody": {
+        "zh": "每桌名额有限，真实活动由主理人审核申请。本演示只做本地校验，不发送或保存信息。",
+        "en": "Participation is limited and intentionally curated. We review every application to ensure alignment, commitment, and a focused group environment. Pricing and availability are shared privately with approved applicants. Demo only: this form validates locally and does not send or save data."
+      },
+      "status": {
+        "zh": "候补名单",
+        "en": "Waitlist"
+      },
+      "duration": {
+        "zh": "五天披萨手艺沉浸",
+        "en": "5-Day Pizza Craft Immersion"
+      },
+      "images": [
+        "/templates/offersuite/images/6aGxWNH9o8WvqtOwy2Qy82h6UA.webp",
+        "/templates/offersuite/images/4asWZzRAP4DbS6kvryq98GX88.webp",
+        "/templates/offersuite/images/3mV6kFqwQSPGrfHuy2n5SThWoJ8.png",
+        "/templates/offersuite/images/OdbVheQaBouZTjH3BthdEca904.png",
+        "/templates/offersuite/images/ZsWIizSq6CuuxEDEkBLE72uZijc.png",
+        "/templates/offersuite/images/Kg9a9apwEQ3WaKk4oLsnUMvM.png",
+        "/templates/offersuite/images/lGNSbuoNug54zxh0jLpJKjXipfo.png",
+        "/templates/offersuite/images/1vNhEJBq6hyLGLVrDrrotimK8Q0.png",
+        "/templates/offersuite/images/JuLYqavZWHB6D0TMelaVADM7Xg.png",
+        "/templates/offersuite/images/vt5qROFMqR2igJfIiDp0LYAKDo.png",
+        "/templates/offersuite/images/8D7NBpVKmMmHKrzt4D0KKN856v8.png",
+        "/templates/offersuite/images/eNnaVhEtOARvwJEogwZvBu64O8.png",
+        "/templates/offersuite/images/oEu0R8ZZDElxpnSkuXKxFkOKQGA.png",
+        "/templates/offersuite/images/OVyESJzYkAVyYr5TynG7KSR3dbg.png",
+        "/templates/offersuite/images/ogu3xNNNZMJ8uWlVQLNdDZed34.png",
+        "/templates/offersuite/images/SVkWLlyH4o2b6eCH6MOGSkCg5VI.png",
+        "/templates/offersuite/images/s8nH2roHnZxS2dJSjHqBWfitVI.png",
+        "/templates/offersuite/images/QrWRv4viLbPi9ID4UapszkCeEQ4.png",
+        "/templates/offersuite/images/QJZ2Yke1hxciUr4mE5UzhpXEfJc.png",
+        "/templates/offersuite/images/Edul4IZ1JZO7SL91PXn8JWN4nE.png",
+        "/templates/offersuite/images/fm1xPZW0EeBebmOFf536XZvc.png",
+        "/templates/offersuite/images/VPwBpt7pPzchHsE9lPpbzGJmshc.png",
+        "/templates/offersuite/images/EJOuDDNye7WdBBL9IQnVDYU8OcU.png",
+        "/templates/offersuite/images/DLHYwg97B2gvHKJoC4sZdrdUiQ0.png",
+        "/templates/offersuite/images/kcKzJWwe99OE2ME6NlSrLl4VU.png",
+        "/templates/offersuite/images/7WaxslpUxj9wGKmznBiAbdzkA4Y.png",
+        "/templates/offersuite/images/o2MGUsyFGUfArEYLLclGfOnVVPg.png",
+        "/templates/offersuite/images/KcfadPw1XRGnPiAVNkI3IBB7ZI4.png",
+        "/templates/offersuite/images/dJKMI0OsoKLdBR2nVFvD1MePloA.png",
+        "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+        "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+        "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+        "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+      ]
+    },
+    {
+      "id": "rome",
+      "region": {
+        "zh": "罗马",
+        "en": "Rome"
+      },
+      "title": {
+        "zh": "四种意面",
+        "en": "The Four Pasta"
+      },
+      "subtitle": {
+        "zh": "五天走进罗马，循着奶酪胡椒、猪颊肉、番茄与蛋酱，理解四种经典意面。",
+        "en": "A five-day culinary immersion in Rome, tracing cacio e pepe, gricia, amatriciana, and carbonara."
+      },
+      "intro": {
+        "zh": "关于罗马意面的争论从未停息。争论背后，是一次次看似差不多的替换，让原本的技法悄然改变。我们回到真正重视细节的厨房，重新学习。",
+        "en": "No other pasta family on earth generates this much confident disagreement, and almost none of it is actually about opinion. It’s about drift. Across enough repetitions and enough “close enough” substitutions, the technique quietly changes, and nobody notices because the dish still tastes like carbonara."
+      },
+      "scheduleTitle": {
+        "zh": "五天的安排",
+        "en": "What the 5 Days Hold"
+      },
+      "scheduleSubtitle": {
+        "zh": "每一刻都为深入理解、精进技艺而设计。",
+        "en": "Every moment designed for depth, craft, and mastery."
+      },
+      "steps": [
+        {
+          "title": {
+            "zh": "抵达罗马",
+            "en": "Arrival in Rome"
+          },
+          "body": {
+            "zh": "傍晚以一盘原本做法的奶酪胡椒面开始，在添加任何东西之前理解它。",
+            "en": "Late afternoon in Rome. Cacio e pepe for dinner, the way it is meant to be eaten, before anything is added to it."
+          }
+        },
+        {
+          "title": {
+            "zh": "毫不宽容的奶酪胡椒酱",
+            "en": "Cacio e Pepe - The Unforgiving Sauce"
+          },
+          "body": {
+            "zh": "只有奶酪、胡椒与煮面水，越简单的组合，越无处隐藏错误。",
+            "en": "Just cheese, pepper, and pasta water. It is the least forgiving dish on the list precisely because there is nowhere to hide a mistake."
+          }
+        },
+        {
+          "title": {
+            "zh": "猪颊肉登场",
+            "en": "Gricia - Guanciale Enters"
+          },
+          "body": {
+            "zh": "由经营家庭餐馆二十多年的 Dario，亲自教授 Gricia 的细节。",
+            "en": "Guanciale enters. Dario has run a family trattoria specializing in these four dishes for more than twenty years, and he will teach you personally."
+          }
+        },
+        {
+          "title": {
+            "zh": "番茄与清晨市集",
+            "en": "Amatriciana - The Market Morning"
+          },
+          "body": {
+            "zh": "去 Dario 采购十年的摊位选番茄，回厨房完成经典 Amatriciana。",
+            "en": "The tomato day. A short trip to a market stall where Dario has shopped for a decade, then back to build the dish that took two centuries to earn trust."
+          }
+        },
+        {
+          "title": {
+            "zh": "蛋酱意面与完整谱系",
+            "en": "Carbonara - The Family Tree, Complete"
+          },
+          "body": {
+            "zh": "最后学习争论最多的 Carbonara，再将四种意面并排制作与比较。",
+            "en": "The newest and most debated dish, made last exactly the way it entered the family. You’ll cook all four side by side for the first time."
+          }
+        }
+      ],
+      "included": [
+        {
+          "title": {
+            "zh": "后续交流",
+            "en": "Post Support"
+          },
+          "body": {
+            "zh": "课程结束后加入往届学员餐桌。",
+            "en": "An invitation to the alumni table for continued exchange after the week ends."
+          }
+        },
+        {
+          "title": {
+            "zh": "亲自指导",
+            "en": "Personal Guidance"
+          },
+          "body": {
+            "zh": "Giulia 与 Dario 全程提供直接、坦诚的反馈。",
+            "en": "Direct, candid feedback from Giulia and Dario throughout the immersion."
+          }
+        },
+        {
+          "title": {
+            "zh": "餐饮体验",
+            "en": "Culinary"
+          },
+          "body": {
+            "zh": "市场探访、街坊餐食与罗马葡萄酒搭配。",
+            "en": "Market visits, neighborhood meals, and Roman wine pairings."
+          }
+        },
+        {
+          "title": {
+            "zh": "材料",
+            "en": "Materials"
+          },
+          "body": {
+            "zh": "包含意面食材、厨房使用、品鉴与学习资料。",
+            "en": "All pasta ingredients, kitchen access, tastings, and learning materials."
+          }
+        },
+        {
+          "title": {
+            "zh": "住宿",
+            "en": "Accommodation"
+          },
+          "body": {
+            "zh": "五晚罗马中心区独立房间。",
+            "en": "Five nights in central Rome, with a private room."
+          }
+        }
+      ],
+      "locationTitle": {
+        "zh": "在罗马的日常里",
+        "en": "Set in the Heart of Rome"
+      },
+      "locationSubtitle": {
+        "zh": "技法在争论、重复与食欲中延续。",
+        "en": "A city where technique survives through argument, repetition, and appetite."
+      },
+      "location": {
+        "zh": "课堂就在罗马的市集、家庭餐馆与工作厨房。",
+        "en": "The masterclass unfolds in Rome’s markets, trattorie, and working kitchens."
+      },
+      "locationBody": {
+        "zh": "每张餐桌都在延续这些菜的讨论。与愿意纠正细节的人一起，走进活着的传统。申请获准后提供集合详情。",
+        "en": "Rome is the right place to study these dishes because the debate is still alive at every table. You will cook inside that living tradition, with people who care enough to correct the details. Exact meeting details are shared after your application is approved."
+      },
+      "formTitle": {
+        "zh": "加入罗马体验候补",
+        "en": "Join the Rome Waitlist"
+      },
+      "formBody": {
+        "zh": "下一期罗马体验计划于 2027 年春季举办。本演示只校验填写内容，不提交候补申请。",
+        "en": "The next Rome immersion is planned for spring 2027. Join the waitlist to receive first access when the cohort opens. Demo only: this form validates locally and does not send or save data."
+      },
+      "status": {
+        "zh": "名额已满",
+        "en": "Sold Out"
+      },
+      "duration": {
+        "zh": "五天罗马意面研习",
+        "en": "5-Day Roman Pasta Intensive"
+      },
+      "images": [
+        "/templates/offersuite/images/6aGxWNH9o8WvqtOwy2Qy82h6UA.webp",
+        "/templates/offersuite/images/bipwES7RS5UQF1uh91SlWv5fBo.webp",
+        "/templates/offersuite/images/eFROEFjuA45Hkj410hrNRCfIvXQ.webp",
+        "/templates/offersuite/images/ashyR95sQaBhU4lzncmNbhqmYQ.png",
+        "/templates/offersuite/images/LlzvVg49w1Nl1bmCnDzoqmQ.png",
+        "/templates/offersuite/images/7zYOw0RIAKMcesQ99BG4fEFSO0.png",
+        "/templates/offersuite/images/OnQdczuCPzGu0rr2IiMfznptHn8.png",
+        "/templates/offersuite/images/lip248EcfxGKv28kVj9YmuoUYL4.png",
+        "/templates/offersuite/images/av92Lfue4o63HjnBuGF3QYuz9j8.png",
+        "/templates/offersuite/images/tvilaYRIyluSrwE8W1iGotSM8.png",
+        "/templates/offersuite/images/vWo50WLttgfcNE66GhbadCInc.png",
+        "/templates/offersuite/images/cQWrUInn4suYuImsrEnMrPEOfGU.png",
+        "/templates/offersuite/images/zWumX8aIx7F3Hh5b6FzkkvBow.png",
+        "/templates/offersuite/images/76hW2uiXaiSUJRWzus2GJvji5g.png",
+        "/templates/offersuite/images/kjO41rJYVTk5iVNGF7g1gqxsGUI.png",
+        "/templates/offersuite/images/tgkLr5wYyeqnWHSkYz4Zuo8viYg.png",
+        "/templates/offersuite/images/QZHbfrSrpN1Sz8DOjygHuazbs.png",
+        "/templates/offersuite/images/0b9CUCVnO3zIcKrzNfKRvfW1z0.png",
+        "/templates/offersuite/images/3wKEvuitD8MOG3lKT0ek4Bcsvhw.png",
+        "/templates/offersuite/images/MDOTAoF8g4ux2G7SAAQH3uP1yx8.png",
+        "/templates/offersuite/images/Kzj7ZZkWGp0e2dY0jQCo43P6e3w.png",
+        "/templates/offersuite/images/jaMloZMk4HsPCVFmXMrAKC2Foc.png",
+        "/templates/offersuite/images/Yd7qebwMIHAnNpKpUDdzw88p3U.png",
+        "/templates/offersuite/images/YbQDhkdXOT8xcuUYRK5KF7VwzU.png",
+        "/templates/offersuite/images/W8Gf5PSSZrfmrWQvEYmPnfuDML8.png",
+        "/templates/offersuite/images/VjQWHNWba6B7DyLd9DjESBH8dY.png",
+        "/templates/offersuite/images/3qQlxMINiaMiRnlfNh8OGmRf24g.png",
+        "/templates/offersuite/images/4nXryur4dyN9hteeltynSKZXFk.png",
+        "/templates/offersuite/images/T70AC3GuS0Y7FlONq8td3EImf1Q.png",
+        "/templates/offersuite/images/aON5SoQDZ4AV3aBcRMZmPHCyI7I.png",
+        "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+        "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+        "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+        "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+      ]
+    },
+    {
+      "id": "dolomites",
+      "region": {
+        "zh": "多洛米蒂",
+        "en": "Dolomites"
+      },
+      "title": {
+        "zh": "阿尔卑斯之席",
+        "en": "The Alpine Table"
+      },
+      "subtitle": {
+        "zh": "五天走进山间厨房，让保存、耐心与时令食材成为精确的料理语言。",
+        "en": "A five-day immersion in the Dolomites, where mountain kitchens turn preservation, patience, and seasonal ingredients into a precise culinary language."
+      },
+      "intro": {
+        "zh": "与当地人、天气和食材一起理解阿尔卑斯饮食：烟熏火腿、黑麦面包、面包团子、牧场黄油和薄如纸的果卷。小团体、长餐桌，留足亲手学习的时间。",
+        "en": "This immersion is for cooks who want to understand a mountain kitchen from the inside. Over five days, you will work with the people, weather, and ingredients that shape Alpine food: smoked speck, rye bread, dumplings, pasture butter, and paper-thin strudel. Small group. Long tables. Time enough to learn by hand."
+      },
+      "scheduleTitle": {
+        "zh": "五天的安排",
+        "en": "What the 5 Days Hold"
+      },
+      "scheduleSubtitle": {
+        "zh": "跟随海拔、季节与山谷生产者，细察山地技艺。",
+        "en": "A close study of Alpine technique, shaped by altitude, season, and the valley’s producers."
+      },
+      "steps": [
+        {
+          "title": {
+            "zh": "抵达山间农庄",
+            "en": "Arrival at Maso Unterberg"
+          },
+          "body": {
+            "zh": "认识同行伙伴，适应山谷节奏，以开场晚餐认识这一周的风味与生产者。",
+            "en": "Arrive at Maso Unterberg, meet the table, and settle into the rhythm of the valley. The opening supper introduces the flavors and makers that will guide the week."
+          }
+        },
+        {
+          "title": {
+            "zh": "烟熏屋与风干火腿",
+            "en": "The Smokehouse - Curing Speck"
+          },
+          "body": {
+            "zh": "与生产者理解腌制、温度与时间，品味空气、烟熏和克制带来的差异。",
+            "en": "Work beside a local producer to understand curing, temperature, and time in South Tyrolean speck. Taste the difference that air, smoke, and restraint make."
+          }
+        },
+        {
+          "title": {
+            "zh": "面包团子的技法",
+            "en": "Canederli - The Dumpling Technique"
+          },
+          "body": {
+            "zh": "用旧面包、汤与香草制作团子，理解质地和平衡如何赋予家常食物结构。",
+            "en": "Build canederli from stale bread, broth, herbs, and instinct. Learn how texture and balance turn humble leftovers into a dish with real structure."
+          }
+        },
+        {
+          "title": {
+            "zh": "高山牧场徒步",
+            "en": "The High Pasture Hike"
+          },
+          "body": {
+            "zh": "随照料牧场的人上山，理解海拔、饲草与季节如何影响厨房里的食物。",
+            "en": "Walk to the high pasture with the people who tend it. Gather a clearer sense of how altitude, forage, and season change the food that reaches the kitchen."
+          }
+        },
+        {
+          "title": {
+            "zh": "果卷与最后的餐桌",
+            "en": "Strudel - The Final Table"
+          },
+          "body": {
+            "zh": "将面皮拉至透光，再用共同完成的菜肴，为这一周收尾。",
+            "en": "Stretch strudel dough until it is translucent, then close the week around a final table of the dishes you have made together."
+          }
+        }
+      ],
+      "included": [
+        {
+          "title": {
+            "zh": "亲自指导",
+            "en": "Personal Guidance"
+          },
+          "body": {
+            "zh": "导师与当地厨师全程指导。",
+            "en": "Direct guidance from the maestro and local cooks throughout the immersion."
+          }
+        },
+        {
+          "title": {
+            "zh": "餐饮体验",
+            "en": "Culinary"
+          },
+          "body": {
+            "zh": "生产者探访、牧场徒步、地方葡萄酒与餐食。",
+            "en": "Producer visits, pasture walking, regional wines, and meals."
+          }
+        },
+        {
+          "title": {
+            "zh": "材料",
+            "en": "Materials"
+          },
+          "body": {
+            "zh": "包含全部食材、工具、品鉴和厨房课程。",
+            "en": "All ingredients, tools, tastings, and kitchen sessions are included."
+          }
+        },
+        {
+          "title": {
+            "zh": "住宿",
+            "en": "Accommodation"
+          },
+          "body": {
+            "zh": "五晚 Maso Unterberg 山间农庄住宿。",
+            "en": "Five nights at Maso Unterberg, a working mountain farmstead."
+          }
+        }
+      ],
+      "locationTitle": {
+        "zh": "多洛米蒂群山之间",
+        "en": "Set Among the Dolomites"
+      },
+      "locationSubtitle": {
+        "zh": "海拔、保存与季节塑造每一道菜。",
+        "en": "Where altitude, preservation, and season shape every plate."
+      },
+      "location": {
+        "zh": "课程在多洛米蒂的一座私人农庄举行。",
+        "en": "The masterclass takes place at a private farmstead in the Dolomites."
+      },
+      "locationBody": {
+        "zh": "高山牧场与森林环绕，厨房跟随天气，储藏室跟随季节。申请获准后提供具体地址。",
+        "en": "Surrounded by high pastures and forested slopes, this is a place where cooking follows the weather and the pantry follows the season. Exact location details are shared after your application is approved."
+      },
+      "formTitle": {
+        "zh": "申请阿尔卑斯之席",
+        "en": "Apply for the Alpine Table"
+      },
+      "formBody": {
+        "zh": "每桌名额有限，真实活动由主理人审核申请。本演示只做本地校验，不发送或保存信息。",
+        "en": "Places are deliberately limited. We review every application to build a small, committed group for the Dolomites immersion. Demo only: this form validates locally and does not send or save data."
+      },
+      "status": {
+        "zh": "往期体验",
+        "en": "Past"
+      },
+      "duration": {
+        "zh": "五天阿尔卑斯料理",
+        "en": "5-Day Alpine Immersion"
+      },
+      "images": [
+        "/templates/offersuite/images/s00C3pwbv5Elicru0yopRFJPyac.webp",
+        "/templates/offersuite/images/irmd4ZUXfIR0lJcqLcrhNzztGU.webp",
+        "/templates/offersuite/images/cWUmOrFnd4iihOLrRk4oFbvb7Y.png",
+        "/templates/offersuite/images/Pg6BmHadTu7dF9uw4myUwUuwsE.png",
+        "/templates/offersuite/images/SskjD5CnYG9WlCqSjmPxPQXXU.png",
+        "/templates/offersuite/images/5NIh5GRNRJkrlaYz8rzlBPtNtw.png",
+        "/templates/offersuite/images/i8ij4Pr90Y3HLMduLEGZJ4vEdg.png",
+        "/templates/offersuite/images/X9ylSBtxVhbvkzAW5BTZbUfywY.png",
+        "/templates/offersuite/images/jlD5MTWhuh1fPRwXpQxzUrNZI.png",
+        "/templates/offersuite/images/HprW50iIucVn4QGzPvLxN9Sk9Es.png",
+        "/templates/offersuite/images/2TYkTV5DfVjx7jdSYRDgL9pRBC0.png",
+        "/templates/offersuite/images/Sv3ZnGHpzXsQ9PLnqDXTCVYdU.png",
+        "/templates/offersuite/images/LWz4wIbNzpKqtUTPmE7iu4KylGQ.png",
+        "/templates/offersuite/images/RHgu2vFEI7SCPCDMj2tzaNiIsMA.png",
+        "/templates/offersuite/images/uRxWHdRjuMVxB1A0PVquqNHxmO0.png",
+        "/templates/offersuite/images/gaypEMMcMHNg8jxitKHdwZ8spA4.png",
+        "/templates/offersuite/images/Z34ZXjvhaqtL5bE7irlsMh5IJU.png",
+        "/templates/offersuite/images/XTxdQnjdDzQBiYhSyU0NETBMZY.png",
+        "/templates/offersuite/images/Tjy1sLJC6aHU1oPAy0W7aGXElI.png",
+        "/templates/offersuite/images/FUhrbPmUZ4yOgGNigwmQM1uLPE.png",
+        "/templates/offersuite/images/sZWN0Y3SoiTLRx8mNchru3q2qg.png",
+        "/templates/offersuite/images/ytnz5NMdfcZv72vHwlCwFJKFM.png",
+        "/templates/offersuite/images/81xfcRDstkvRnlsgOroP59MhI.png",
+        "/templates/offersuite/images/GrbxDwS6hZVJjJYcnyXWM1vTIa0.png",
+        "/templates/offersuite/images/76keL0jE9vdLQeKFxPjbYiTs1PM.png",
+        "/templates/offersuite/images/9Sa4pDmNsXsyKvskdZ6IVly4ao.png",
+        "/templates/offersuite/images/2JyvF4h80Slmof8hikod3Qg1XM.png",
+        "/templates/offersuite/images/Y8sO0xj16hm1pcEdCd8AGJX1k.png",
+        "/templates/offersuite/images/mZFwW1IhZGymoBiXDZB2VTXI.png",
+        "/templates/offersuite/images/RRW2jA1l1AXrFDm2Jq2Gu16MefA.png",
+        "/templates/offersuite/images/vlZRd1VASrBK0KBYCbcRVjVGq0.png",
+        "/templates/offersuite/images/DhDbxxlIftn4MyaaV9RxfBEugk.png"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "what-a-tuscan-table-teaches",
+      "title": {
+        "zh": "托斯卡纳餐桌教会我们的事",
+        "en": "What a Tuscan table teaches"
+      },
+      "subtitle": {
+        "zh": "几样好食材，足够的时间，和一张容得下二者的餐桌。",
+        "en": "A few good ingredients. Enough time. A table that makes room for both."
+      },
+      "date": "Sep 9, 2026",
+      "image": "/templates/offersuite/images/WxFLTiOhDeAmHhJQJXbGkVvM.png",
+      "blocks": [
+        {
+          "title": null,
+          "body": {
+            "zh": "托斯卡纳餐桌的吸引力，早在第一道菜上桌前就已开始。伸手可及的面包、自然倒出的橄榄油，以及愿意为一顿饭留出时间的心意，都在告诉我们：丰盛的餐桌来自用心，而非装饰。",
+            "en": "The appeal of a Tuscan table begins before the first plate arrives. It is there in the bread set within reach, the oil poured without ceremony, and the willingness to let a meal take the time it needs. For a cook, this is a useful starting point: a generous table is built through attention, long before it is finished with decoration."
+          }
+        },
+        {
+          "title": {
+            "zh": "从眼前的食材开始",
+            "en": "Begin with what is there"
+          },
+          "body": {
+            "zh": "留意食材的状态。成熟番茄与早摘番茄需要不同处理，昨天的面包也有今天无法替代的可能。观察质地、香气与新鲜程度，让这些发现引导下一步。",
+            "en": "Cooking with the region in mind means looking closely at what is available. A ripe tomato asks for a different kind of handling from one picked early. A loaf from yesterday offers possibilities that fresh bread does not. Rather than treating ingredients as interchangeable parts of a recipe, notice their texture, aroma, and condition. Let those observations guide the next decision."
+          }
+        },
+        {
+          "title": {
+            "zh": "在餐桌边留一点空间",
+            "en": "Leave room at the table"
+          },
+          "body": {
+            "zh": "食物做好就上桌，一起分担工作，在两道菜之间留出停顿。把这种想法带回家：少做几道菜，选择喜欢的食材，留足与家人一起坐下的时间。",
+            "en": "The same attentiveness belongs in the meal itself. Serve food while it is ready, share the work, and leave a little space between courses. A table becomes memorable through small gestures repeated well. Bring that idea home by simplifying one meal: fewer dishes, ingredients you enjoy, and enough time to sit down with the people you made it for."
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-to-cook-with-the-lagoon",
+      "title": {
+        "zh": "跟随潟湖学做菜",
+        "en": "Learning to cook with the lagoon"
+      },
+      "subtitle": {
+        "zh": "在水边，厨房先学会倾听，再决定做什么。",
+        "en": "On water, a kitchen learns to listen before it decides what to make."
+      },
+      "date": "Sep 2, 2026",
+      "image": "/templates/offersuite/images/nBuY5OlOizJ8fLUmhzuWmYVzg.png",
+      "blocks": [
+        {
+          "title": null,
+          "body": {
+            "zh": "在威尼斯思考料理，就要思考水塑造的风景。市场送来的食材、天气的变化与一天的流动，都能成为菜单的起点，而不是提前写好的固定指令。",
+            "en": "To think about cooking in Venice is to think about a landscape shaped by water. The city invites a cook to pay attention to arrivals: ingredients brought to market, a change in the weather, and the movement of the day. A menu can begin as a response to those conditions rather than a set of instructions decided far in advance."
+          }
+        },
+        {
+          "title": {
+            "zh": "让市场引路",
+            "en": "Let the market lead"
+          },
+          "body": {
+            "zh": "先逛一遍市场再购买。看看哪些食材出现在多个摊位，询问产地，思考需要多少处理。即使远离潟湖，也可以在遇到更好的食材时修改计划，让采购成为料理的一部分。",
+            "en": "Walk through a market once before buying. Notice what appears across several stalls, ask where it comes from, and consider how much preparation it needs. The exercise is useful even when you are far from the lagoon. Shopping becomes part of cooking when you give yourself permission to revise the plan in front of a better ingredient."
+          }
+        },
+        {
+          "title": {
+            "zh": "保持清晰的组合",
+            "en": "Keep the composition clear"
+          },
+          "body": {
+            "zh": "选择少量元素，给每一种明确的作用：甜味、酸度或质地。先一起品尝，再决定是否添加。克制需要练习，目标是让各部分保持鲜明，又朝着同一个方向前进。",
+            "en": "Back in the kitchen, choose a small number of elements and give each a purpose. One might bring sweetness, another acidity, another texture. Taste them together before adding more. Restraint takes practice because there is always another ingredient within reach. The aim is to make a dish whose parts remain distinct while sharing a single, clear direction."
+          }
+        }
+      ]
+    },
+    {
+      "id": "four-pastas-a-thousand-decisions",
+      "title": {
+        "zh": "四种意面，一千个决定",
+        "en": "Four pastas, a thousand decisions"
+      },
+      "subtitle": {
+        "zh": "越短的配料表，越考验厨师。",
+        "en": "Why a short ingredient list asks more of a cook, not less."
+      },
+      "date": "Aug 26, 2026",
+      "image": "/templates/offersuite/images/tgkLr5wYyeqnWHSkYz4Zuo8viYg.png",
+      "blocks": [
+        {
+          "title": null,
+          "body": {
+            "zh": "简单的配料让厨师无处隐藏。面条的质地、煮面水的调味与最后一次翻锅，都清晰可见。同样的食材，每一次都可能做出不同结果，这正是研究简单菜肴的回报。",
+            "en": "A small ingredient list leaves a cook with nowhere to hide. In a bowl of pasta, the texture of the noodles, the seasoning of the water, and the final movement of the pan all remain visible. This is what makes studying a simple dish so rewarding: the same ingredients can produce a different result each time you cook them."
+          }
+        },
+        {
+          "title": {
+            "zh": "留意最后的收尾",
+            "en": "Pay attention to the finish"
+          },
+          "body": {
+            "zh": "在面煮好前准备配料，留好煮面水，逐步调整。观察酱汁如何附着，而不只盯着计时器。使用奶酪时尤其关注温度，少量水和热量的变化就会改变口感。",
+            "en": "Prepare the ingredients before the pasta is ready. Keep some cooking water nearby and make the final adjustments gradually. Watch how the sauce moves across the surface rather than relying only on a timer. If you are working with cheese, pay particular attention to heat. Small changes in temperature and water can change the texture of the finished dish."
+          }
+        },
+        {
+          "title": {
+            "zh": "带着目的重复",
+            "en": "Repeat with a purpose"
+          },
+          "body": {
+            "zh": "先反复练习一种面，每次只改变一个决定。记录酱汁是否更松、调味是否更鲜明、出餐是否更及时。带着问题重复，才能理解自己的过程，并自信地调整。",
+            "en": "Choose one pasta and cook it again before moving to another. Change only one decision at a time, then write down what you noticed: a looser sauce, a sharper seasoning, a better moment to serve. Repetition becomes useful when it has a question attached. The goal is to understand your own process well enough to adjust it with confidence."
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-pleasure-of-a-longer-lunch",
+      "title": {
+        "zh": "一顿悠长午餐的乐趣",
+        "en": "The pleasure of a longer lunch"
+      },
+      "subtitle": {
+        "zh": "好的款待，从为到来的人留出空间开始。",
+        "en": "Good hosting begins with making space for the people who arrive."
+      },
+      "date": "Aug 19, 2026",
+      "image": "/templates/offersuite/images/O1ZYTMgld7whYr9RmZkGtPpjLgI.png",
+      "blocks": [
+        {
+          "title": null,
+          "body": {
+            "zh": "悠长的午餐让谈话有时间转向。风景退到背景，熟悉的菜引出故事，安静的停顿也变得自在。厨师的工作，是创造这种从容，而不是整顿饭都离开客人。",
+            "en": "A longer lunch offers something that a carefully packed itinerary cannot: time for a conversation to change direction. Around a table, a view can become background, a familiar dish can prompt a story, and a quiet pause can feel comfortable. The cook’s contribution is to create the conditions for that ease without spending the whole meal away from the guests."
+          }
+        },
+        {
+          "title": {
+            "zh": "为想共享的时间做准备",
+            "en": "Plan for the time you want to share"
+          },
+          "body": {
+            "zh": "选几道能提前准备的菜，只留一项临近上桌完成。进入最后烹饪阶段前摆好桌子，想清盘子、水与餐勺的位置。这些不起眼的决定，让主人和客人都能安坐。",
+            "en": "Build a menu around a few dishes that can be prepared in advance, with one element finished close to serving. Set the table before beginning the last stage of cooking. Think about where plates, water, and serving spoons will live. These practical decisions are almost invisible to guests, but they make it easier for everyone, including the host, to settle in."
+          }
+        },
+        {
+          "title": {
+            "zh": "给用餐温柔的节奏",
+            "en": "Give the meal a gentle rhythm"
+          },
+          "body": {
+            "zh": "等餐桌准备好，再上下一道菜。充足无需变成表演。好的午餐不需要宏大场景，而需要在场的主人。让日程空一点，让最后一段时光自然结束。",
+            "en": "Bring each course when the table is ready for it. Offer enough without turning abundance into a performance. A good lunch does not require a grand setting; it needs a host who can be present. Borrow the feeling of a lakeside afternoon by leaving the schedule open and allowing the last part of the meal to find its own ending."
+          }
+        }
+      ]
+    },
+    {
+      "id": "a-kitchen-between-the-mountains",
+      "title": {
+        "zh": "群山之间的厨房",
+        "en": "A kitchen between the mountains"
+      },
+      "subtitle": {
+        "zh": "通过料理，留意风景、季节与天气。",
+        "en": "Cooking as a way to notice the landscape, the season, and the weather."
+      },
+      "date": "Aug 12, 2026",
+      "image": "/templates/offersuite/images/qzKwUOttmVaPzTj6gJGTz2A.png",
+      "blocks": [
+        {
+          "title": null,
+          "body": {
+            "zh": "山改变了我们感受地方的方式。光线让熟悉的景色重绘，户外的一下午让简单晚餐更受欢迎。菜肴属于一个地方，既因为食材，也因为它被端上桌的时刻。",
+            "en": "Mountains change the way a place is experienced. A shift in light can redraw a familiar view, and an afternoon outdoors can make a simple supper feel especially welcome. In the kitchen, that connection between surroundings and appetite is worth noticing. A dish belongs to its setting partly through its ingredients, and partly through the moment in which it is served."
+          }
+        },
+        {
+          "title": {
+            "zh": "先读懂地方，再读配方",
+            "en": "Read the place before the recipe"
+          },
+          "body": {
+            "zh": "先问附近长什么、能储存什么、哪些当地生产、哪些从远处运来。问生产者喜欢怎样使用自己的食材。答案把食材与习惯、判断连接，比长长的购物单更有帮助。",
+            "en": "When exploring a regional kitchen, start with questions. What grows nearby? What can be stored? Which ingredients are made locally, and which arrive from elsewhere? Ask producers how they like to use what they sell. Their answers can offer a more useful introduction than a long shopping list, because they connect an ingredient to the decisions and habits behind it."
+          }
+        },
+        {
+          "title": {
+            "zh": "把这份留意带回家",
+            "en": "Bring the attention home"
+          },
+          "body": {
+            "zh": "不必重造山景，也能做出地方感。观察自家窗外天气，拜访附近生产者，选择适合当天的食材。记录想在来年再做的菜，让观察逐渐成为扎根生活的个人食谱。",
+            "en": "You do not need to recreate a mountain landscape to cook with a sense of place. Notice the weather outside your own kitchen, visit a nearby producer, and choose something that suits the day. Keep a record of meals you want to make again when the season returns. Over time, these small observations become a personal repertoire rooted in where you live."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dough-rewards-your-attention",
+      "title": {
+        "zh": "面团会回报你的专注",
+        "en": "Dough rewards your attention"
+      },
+      "subtitle": {
+        "zh": "在计时器响起前，先听懂双手的提示。",
+        "en": "Learning to notice what your hands can tell you before the timer does."
+      },
+      "date": "Aug 5, 2026",
+      "image": "/templates/offersuite/images/KLuSEIhAKWL3DM37ZpM7BFb7g9k.png",
+      "blocks": [
+        {
+          "title": null,
+          "body": {
+            "zh": "配方给出起点，厨房决定条件。面粉、水、室温与时间共同塑造面团。学习手艺，是观察差异，而不是把差异当干扰。计时器有用，回头看看面团发生了什么，同样有用。",
+            "en": "A dough recipe offers a starting point, but the kitchen supplies the conditions. Flour, water, room temperature, and time all affect how a batch develops. Learning the craft means noticing those differences rather than treating them as interruptions. A timer is useful; so is the habit of returning to the dough and observing what has changed since you last touched it."
+          }
+        },
+        {
+          "title": {
+            "zh": "做一点小记录",
+            "en": "Keep a small record"
+          },
+          "body": {
+            "zh": "学习时使用相同面粉和稳定配方，记录室温、搅拌时间与各阶段手感。观察弹性、体积和表面变化。照片或几句简单文字都能帮助比较，不要一次改变太多变量。",
+            "en": "Use the same flour and a consistent recipe while you learn. Note the room temperature, mixing time, and how the dough feels at each stage. Look for changes in elasticity, volume, and surface appearance. A photograph or a few plain words can help you compare one batch with the next. Avoid changing several things together, or it becomes difficult to tell which adjustment mattered."
+          }
+        },
+        {
+          "title": {
+            "zh": "在重复中建立信心",
+            "en": "Build confidence through repetition"
+          },
+          "body": {
+            "zh": "观察是为了做出更有依据的下一步。结果不理想时，准确描述它，下次只研究一件事。尽可能与有经验的烘焙师一起练习，比较各自的发现。技艺就在指令、手中材料与专注之间生长。",
+            "en": "The point of observation is to make your next decision more informed. If a result disappoints, describe it precisely and choose one thing to investigate next time. Work alongside an experienced baker when you can, and compare what each of you notices. Skill develops through this exchange between instructions, the material in your hands, and the attention you bring back to it."
+          }
+        }
+      ]
+    }
+  ]
+}
